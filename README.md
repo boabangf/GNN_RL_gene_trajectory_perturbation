@@ -7,6 +7,9 @@ Variational Graph Autoencoder (VGAE) – a graph autoencoder variant that uses v
 Graph Convolutional Neural Network (GCN) – a neural network architecture that generalizes convolution to graph domains. 
 
 Model free reinforcement learning-sample inefficient
+
+
+
 Model based reinforcement learning- Sample efficient
 
 
