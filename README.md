@@ -1,5 +1,14 @@
 Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20T-cell%20Supplementary%20dataset?ref_type=heads
 
+
+#adata = sc.datasets.paul15()
+
+
+#adata = sc.datasets.moignard15()
+
+
+#adata = sc.datasets.visium_sge()
+
 ****(cell, gene)****
 
 
