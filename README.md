@@ -22,6 +22,42 @@ Graph attention Neural Network (GAT)- replaces uniform neighbor aggregation with
 
 Any of these variant of graph neural network can be used for the cell embedding
 
+
+Compute
+
+ASW → Average Silhouette Width
+
+Measures how similar a cell is to its own cluster compared to other clusters.
+
+
+Ranges from -1 to 1, where higher means better-defined clusters.
+
+
+Often used to evaluate how well embeddings separate known cell types.
+
+
+DB → Davies–Bouldin Index
+
+
+Measures the average "similarity" between each cluster and its most similar one.
+
+
+Lower values indicate better separation and compactness.
+
+
+
+CH → Calinski–Harabasz Index
+
+
+Ratio of between-cluster dispersion to within-cluster dispersion.
+
+Higher means more distinct clusters.
+
+after cell embeddings
+
+
+
+
 Model free reinforcement learning-sample inefficient
 
 
