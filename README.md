@@ -28,6 +28,34 @@ Mean square error to meaure the difference between the target perturbation traje
 
 
 
+algorithms = {
+    "A2C": {"class": A2C, "kwargs": {}},
+    "PPO": {"class": PPO, "kwargs": {}},
+    "SAC": {
+        "class": SAC,
+        "kwargs": {
+            "learning_rate": 3e-4,
+            "buffer_size": 1000000,
+            "batch_size": 256,
+            "tau": 0.005,
+            "train_freq": (1, "step"),
+            "gradient_steps": 1,
+            "ent_coef": "auto"
+        }
+    },
+    "TRPO": {"class": TRPO, "kwargs": {}},
+    "TRPO_to_PPO": {"class": PPO, "kwargs": {}},
+    "TRPO_from_PPO": {"class": TRPO, "kwargs": {}}
+}
+train_steps = {
+    "A2C": 1000000,
+    "PPO": 1000000,
+    "SAC": 1000000,
+    "TRPO": 1000000,
+    "TRPO_to_PPO": 500000,
+    "TRPO_from_PPO": 500000
+}
+
 
 ***CITATION**
 
