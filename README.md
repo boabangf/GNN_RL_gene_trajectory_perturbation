@@ -20,6 +20,8 @@ Graph Convolutional Neural Network (GCN) – a neural network architecture that 
 
 Graph attention Neural Network (GAT)- replaces uniform neighbor aggregation with a learned, per-edge attention weight. For each node, neighbors are weighted by learned attention scores before aggregation — so the model learns which neighbors matter for each node and task.
 
+Any of these variant of graph neural network can be used for the cell embedding
+
 Model free reinforcement learning-sample inefficient
 
 
