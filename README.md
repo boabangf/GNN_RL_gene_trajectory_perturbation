@@ -28,7 +28,7 @@ Model free reinforcement learning-sample inefficient
 
 
 
-Model based reinforcement learning- Sample efficient
+Model based reinforcement learning- Sample efficient with CRISPER Knockout of certain genes
 
 Mean square error to meaure the difference between the target perturbation trajectory and predicted.
 
