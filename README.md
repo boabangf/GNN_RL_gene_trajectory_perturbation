@@ -18,6 +18,8 @@ Variational Graph Autoencoder (VGAE) – a graph autoencoder variant that uses v
 
 Graph Convolutional Neural Network (GCN) – a neural network architecture that generalizes convolution to graph domains. 
 
+Graph attention Neural Network (GAT)- replaces uniform neighbor aggregation with a learned, per-edge attention weight. For each node, neighbors are weighted by learned attention scores before aggregation — so the model learns which neighbors matter for each node and task.
+
 Model free reinforcement learning-sample inefficient
 
 
@@ -28,7 +30,7 @@ Mean square error to meaure the difference between the target perturbation traje
 
 
 
-algorithms = {
+RL algorithms = {
 
 
     "A2C": {"class": A2C, "kwargs": {}},
