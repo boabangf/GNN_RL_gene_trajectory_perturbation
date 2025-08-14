@@ -111,10 +111,11 @@ RL algorithms = {
     "TRPO": {"class": TRPO, "kwargs": {}},
 
     
-    "TRPO_to_PPO": {"class": PPO, "kwargs": {}},
+    "TRPO_to_PPO": {"class": PPO, "kwargs": {}}, ***First stage of the Proposed method ***
 
     
-    "TRPO_from_PPO": {"class": TRPO, "kwargs": {}}
+    "TRPO_from_PPO": {"class": TRPO, "kwargs": {}} ***Second  stage of the Proposed method***
+
 
     
 }
@@ -135,10 +136,10 @@ train_steps = {
     "TRPO": 1000000,
 
     
-    "TRPO_to_PPO": 500000,
+    "TRPO_to_PPO": 500000, ***First stage of the Proposed method ***
 
     
-    "TRPO_from_PPO": 500000
+    "TRPO_from_PPO": 500000 ***Second  stage of the Proposed method***
 
     
 }
