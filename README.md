@@ -2,7 +2,7 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 
 
 
-Title of the Talk: *** Machine Learning Optimization Methods and Their Application to Predicting T-Cell Differentiation Using GNNs and Reinforcement Learning.***
+Title of the Talk: **** Machine Learning Optimization Methods and Their Application to Predicting T-Cell Differentiation Using GNNs and Reinforcement Learning.****
 
 #adata = sc.datasets.paul15()
 
