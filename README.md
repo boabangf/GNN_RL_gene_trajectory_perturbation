@@ -73,6 +73,8 @@ RL algorithms = {
     
 }
 
+By starting with a few steps of TRPO before switching to PPO, we help the model avoid local optima and guide it toward a better solution.
+
 
 train_steps = {
 
