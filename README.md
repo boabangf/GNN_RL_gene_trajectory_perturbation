@@ -17,23 +17,7 @@ Title of the Talk: **** Machine Learning Optimization Methods and Their Applicat
 
 The goal of this project is to transform the gene regulatory system into GNN and reinforcement  for predicting the effect of gene perturbations on developmental trajectories using single-cell RNA-seq data
 
-Variational Graph Autoencoder (VGAE) – a graph autoencoder variant that uses variational inference to learn a probabilistic latent representation of graph-structured data.
-
-Graph Convolutional Neural Network (GCN) – a neural network architecture that generalizes convolution to graph domains. 
-
-Graph attention Neural Network (GAT)- replaces uniform neighbor aggregation with a learned, per-edge attention weight. For each node, neighbors are weighted by learned attention scores before aggregation — so the model learns which neighbors matter for each node and task.
-
-Any of these variant of graph neural network can be used for the cell embedding
-
-
-
-Model free reinforcement learning-sample inefficient
-
-
-
-Model based reinforcement learning- Sample efficient with CRISPER Knockout of certain genes
-
-Mean square error to meaure the difference between the target perturbation trajectory and predicted.
+GNN and its variants:
 
 
 
@@ -112,6 +96,30 @@ train_steps = {
 
     
 }
+
+
+
+Algorithm2 
+
+algorithms = {
+
+
+    #"StandardPPO": {"class": StandardPPO, "kwargs": common_kwargs},
+
+    
+    "ProposedFocalPPO": {"class": ProposedFocalPPO, "kwargs": common_kwargs},
+    
+    
+    #"FixedGammaFocalPPO": {"class": FixedGammaFocalPPO, "kwargs": common_kwargs},
+   
+   
+   # "ScopePPO": {"class": ScopePPO, "kwargs": common_kwargs},
+
+
+}
+
+train_steps = {name: 100_000 for name in algorithms}
+
 
 
 ***CITATION**
