@@ -113,7 +113,9 @@ algorithms = {
     "StagedGammaFocalPPO": {"class": StagedGammaFocalPPO, "kwargs": common_kwargs},
 
     
-    "AdaptiveGammaFocalPPO": {"class": AdaptiveGammaFocalPPO, "kwargs": common_kwargs}, #  Why start high and reduce:
+    "AdaptiveGammaFocalPPO": {"class": AdaptiveGammaFocalPPO, "kwargs": common_kwargs},    # Proposed method
+    
+    #  Why start high and reduce:
     
 
 Early training: High gamma encourages exploration of long-term strategies, preventing the agent from just chasing immediate rewards.
@@ -131,7 +133,7 @@ train_steps = {
     
     "StagedGammaFocalPPO": 1000000,
     
-    "AdaptiveGammaFocalPPO": 1000000,
+    "AdaptiveGammaFocalPPO": 1000000,  # Proposed method
     
 }
 
