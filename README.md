@@ -113,7 +113,13 @@ algorithms = {
     "StagedGammaFocalPPO": {"class": StagedGammaFocalPPO, "kwargs": common_kwargs},
 
     
-    "AdaptiveGammaFocalPPO": {"class": AdaptiveGammaFocalPPO, "kwargs": common_kwargs},
+    "AdaptiveGammaFocalPPO": {"class": AdaptiveGammaFocalPPO, "kwargs": common_kwargs}, #  Why start high and reduce:
+    
+
+Early training: High gamma encourages exploration of long-term strategies, preventing the agent from just chasing immediate rewards.
+
+
+Later training: Reducing gamma helps stabilize learning by letting the agent focus more on immediate, reliable rewards, reducing variance in value estimates.
 }
 
 
