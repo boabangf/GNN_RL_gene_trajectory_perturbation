@@ -104,21 +104,30 @@ Algorithm2
 algorithms = {
 
 
-    #"StandardPPO": {"class": StandardPPO, "kwargs": common_kwargs},
+    "StandardPPO": {"class": StandardPPO, "kwargs": common_kwargs},
 
     
-    "ProposedFocalPPO": {"class": ProposedFocalPPO, "kwargs": common_kwargs},
-    
-    
-    #"FixedGammaFocalPPO": {"class": FixedGammaFocalPPO, "kwargs": common_kwargs},
-   
-   
-   #"ScopePPO": {"class": ScopePPO, "kwargs": common_kwargs},
+    "FixedGammaFocalPPO": {"class": FixedGammaFocalPPO, "kwargs": common_kwargs},
 
+    
+    "StagedGammaFocalPPO": {"class": StagedGammaFocalPPO, "kwargs": common_kwargs},
 
+    
+    "AdaptiveGammaFocalPPO": {"class": AdaptiveGammaFocalPPO, "kwargs": common_kwargs},
 }
 
-train_steps = {name: 100_000 for name in algorithms}
+
+train_steps = {
+
+    "StandardPPO": 1000000,
+    
+    "FixedGammaFocalPPO": 1000000,
+    
+    "StagedGammaFocalPPO": 1000000,
+    
+    "AdaptiveGammaFocalPPO": 1000000,
+    
+}
 
 
 
