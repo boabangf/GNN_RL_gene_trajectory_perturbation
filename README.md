@@ -113,7 +113,7 @@ algorithms = {
     #"FixedGammaFocalPPO": {"class": FixedGammaFocalPPO, "kwargs": common_kwargs},
    
    
-   # "ScopePPO": {"class": ScopePPO, "kwargs": common_kwargs},
+   #"ScopePPO": {"class": ScopePPO, "kwargs": common_kwargs},
 
 
 }
