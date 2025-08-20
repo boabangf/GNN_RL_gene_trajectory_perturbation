@@ -112,10 +112,10 @@ algorithms = {
     "FixedGammaFocalPPO": {"class": FixedGammaFocalPPO, "kwargs": common_kwargs},
 
     
-    "StagedGammaFocalPPO": {"class": StagedGammaFocalPPO, "kwargs": common_kwargs},
+    "StagedGammaFocalPPO": {"class": StagedGammaFocalPPO, "kwargs": common_kwargs}, # Proposed method
 
     
-    "AdaptiveGammaFocalPPO": {"class": AdaptiveGammaFocalPPO, "kwargs": common_kwargs},    # Proposed method
+    "AdaptiveGammaFocalPPO": {"class": AdaptiveGammaFocalPPO, "kwargs": common_kwargs},    
     
     #  Why start high and reduce:
     
@@ -133,9 +133,9 @@ train_steps = {
     
     "FixedGammaFocalPPO": 1000000,
     
-    "StagedGammaFocalPPO": 1000000,
+    "StagedGammaFocalPPO": 1000000, # Proposed method
     
-    "AdaptiveGammaFocalPPO": 1000000,  # Proposed method
+    "AdaptiveGammaFocalPPO": 1000000,  
     
 }
 
