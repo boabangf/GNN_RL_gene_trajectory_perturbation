@@ -139,6 +139,42 @@ train_steps = {
     
 }
 
+Algorithm 3
+
+           ┌───────────────────────────┐
+           │      Pretrained Policy     │
+           └───────────────────────────┘
+                       │
+                       ▼
+             ┌───────────────────┐
+             │  Convex LoRA      │
+             │ (stable, sample-  │
+             │ efficient warm-up)│
+             └───────────────────┘
+                       │
+                       ▼
+             ┌───────────────────┐
+             │ Non-Convex LoRA   │
+             │ (flexible, escape │
+             │ local optima)     │
+             └───────────────────┘
+                       │
+                       ▼
+             ┌───────────────────┐
+             │  Full Fine-Tuning │
+             │ or Standard RL    │
+             │ (optional, full  │
+             │ policy express.) │
+             └───────────────────┘
+
+
+Lora- standard for low rank matrix factoriaztion
+
+We introduce a multistage Low-Rank Adaptation (LoRA) approach for reinforcement learning. The method starts with convex LoRA updates to stabilize training and improve sample efficiency, then transitions to non-convex LoRA to increase expressiveness and allow the policy to escape local optima.
+
+
+
+
 
 
 ***CITATION**
