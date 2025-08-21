@@ -15,9 +15,10 @@ Title of the Talk: **** Machine Learning Optimization Methods and Their Applicat
 ****(cell, gene)****
 
 
-The goal of this project is to transform the gene regulatory system into GNN and reinforcement  for predicting the effect of gene perturbations on developmental trajectories using single-cell RNA-seq data
+In reinforcement learning, you can force local optima by:
 
-GNN and its variants:
+Using short horizon episodes, so the policy learns a “shortcut” behavior that is locally optimal but not globally optimal.
+
 
 
 
