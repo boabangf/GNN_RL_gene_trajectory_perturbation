@@ -17,7 +17,7 @@ Title of the Talk: **** Machine Learning Optimization Methods and Their Applicat
 
 In reinforcement learning, you can force local optima by:
 
-Using short horizon episodes, so the policy learns a “shortcut” behavior that is locally optimal but not globally optimal.
+Using short horizon episodes, so the policy learns a “shortcut” behavior that is locally optimal but not globally optimal. We proposed three algorithms to achieve a global optimal solution.
 
 
 
