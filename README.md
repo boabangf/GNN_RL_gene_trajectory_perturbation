@@ -116,7 +116,7 @@ algorithms = {
     "StagedGammaFocalPPO": {"class": StagedGammaFocalPPO, "kwargs": common_kwargs}, # Proposed method
 
     
-    "AdaptiveGammaFocalPPO": {"class": AdaptiveGammaFocalPPO, "kwargs": common_kwargs},    
+    "AdaptiveGammaFocalPPO": {"class": AdaptiveGammaFocalPPO, "kwargs": common_kwargs},    # Proposed method
     
     #  Why start high and reduce:
     
@@ -136,7 +136,7 @@ train_steps = {
     
     "StagedGammaFocalPPO": 1000000, # Proposed method
     
-    "AdaptiveGammaFocalPPO": 1000000,  
+    "AdaptiveGammaFocalPPO": 1000000,  # Proposed method
     
 }
 
