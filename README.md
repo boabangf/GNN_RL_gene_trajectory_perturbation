@@ -14,6 +14,8 @@ Title of the Talk: **** Machine Learning Optimization Methods and Their Applicat
 
 ****(cell, gene)****
 
+****** The most important metric is the root mean square error between the target trajectories and predicted trajectories****
+
 
 
 
