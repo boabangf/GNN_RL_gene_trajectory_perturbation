@@ -113,43 +113,7 @@ train_steps = {
 
 
 
-Algorithm2 
-
-algorithms = {
-
-
-    "StandardPPO": {"class": StandardPPO, "kwargs": common_kwargs},
-
-    
-    "FixedGammaFocalPPO": {"class": FixedGammaFocalPPO, "kwargs": common_kwargs},
-
-    
-    "StagedGammaFocalPPO": {"class": StagedGammaFocalPPO, "kwargs": common_kwargs}, # offline Proposed method
-
-    
-    "AdaptiveGammaFocalPPO": {"class": AdaptiveGammaFocalPPO, "kwargs": common_kwargs},    # Online update Proposed method
-    
-    #  Why start high and reduce:
-    
-
-Early training: High gamma encourages exploration of long-term strategies, preventing the agent from just chasing immediate rewards.
-
-
-Later training: Reducing gamma helps stabilize learning by letting the agent focus more on immediate, reliable rewards, reducing variance in value estimates.
-}
-
-
-train_steps = {
-
-    "StandardPPO": 1000000,
-    
-    "FixedGammaFocalPPO": 1000000,
-    
-    "StagedGammaFocalPPO": 1000000, # Proposed method
-    
-    "AdaptiveGammaFocalPPO": 1000000,  # Proposed method
-    
-}
+   
 
 Algorithm 3
 
