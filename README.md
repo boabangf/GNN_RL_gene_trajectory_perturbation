@@ -16,11 +16,11 @@ Title of the Talk: **** Machine Learning Optimization Methods and Their Applicat
 
 
 
-****Algorithm  1  (Increase sparsity by adjusting the perturbation probability) 
+****Algorithm  1  
 The proposed ASGDAdam/ASGDAmsgrad optimizers (nonconvex case) are particularly well-suited for training on single-cell gene expression datasets, which are characterized by high sparsity—that is, a large proportion of the data consists of zeros due to gene perturbation. In such sparse settings, gradient updates often fluctuate between informative signals (non-zero values) and noise (zeros). A fixed base learning rate may either be too aggressive, leading to instability when rare informative signals appear, or too conservative, slowing convergence when the model mostly encounters zeros. By dynamically switching between a cautious base learning rate (lr_min) and a more aggressive one (lr_max), the ASGD optimizers adapt more effectively to these shifts. This dual learning rate mechanism allows the optimizer to exploit informative non-zero updates when available while avoiding overshooting during the many zero-gradient steps, making the training process more stable and better aligned with the properties of gene expression data.
 
 
-Strongly-Convex Case is similar to the proposed ASGDAdam/ASGDAmsgrad except that we use minimal identity shift(spectral floor) to ensure the algorithm is always positive definite.
+
 
 
 
@@ -90,22 +90,22 @@ By starting with a few steps of TRPO before switching to PPO, we help the model 
 train_steps = {
 
 
-    "A2C": 1000000,
+    "A2C": 100000,
 
     
-    "PPO": 1000000,
+    "PPO": 100000,
 
     
-    "SAC": 1000000,
+    "SAC": 100000,
 
     
-    "TRPO": 1000000,
+    "TRPO": 100000,
 
     
-    "TRPO_to_PPO": 500000, ***First stage of the Proposed method ***
+    "TRPO_to_PPO": 1000, ***First stage of the Proposed method ***
 
     
-    "TRPO_from_PPO": 500000 ***Second  stage of the Proposed method***
+    "TRPO_from_PPO": 99000 ***Second  stage of the Proposed method***
 
     
 }
