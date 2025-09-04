@@ -16,7 +16,7 @@ Title of the Talk: **** Machine Learning Optimization Methods and Their Applicat
 
 
 
-****Algorithm  1  
+****Algorithm  1  (suitable for higher number of perturbation)
 The proposed ASGDAdam/ASGDAmsgrad optimizers (nonconvex case) are particularly well-suited for training on single-cell gene expression datasets, which are characterized by high sparsity—that is, a large proportion of the data consists of zeros due to gene perturbation. In such sparse settings, gradient updates often fluctuate between informative signals (non-zero values) and noise (zeros). A fixed base learning rate may either be too aggressive, leading to instability when rare informative signals appear, or too conservative, slowing convergence when the model mostly encounters zeros. By dynamically switching between a cautious base learning rate (lr_min) and a more aggressive one (lr_max), the ASGD optimizers adapt more effectively to these shifts. This dual learning rate mechanism allows the optimizer to exploit informative non-zero updates when available while avoiding overshooting during the many zero-gradient steps, making the training process more stable and better aligned with the properties of gene expression data.
 
 
