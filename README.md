@@ -13,7 +13,7 @@ Title of  Talk: **** Machine Learning Optimization Methods and Their Application
 #adata = sc.datasets.visium_sge()
 
 ****(cell, gene)****
-
+**** cellular level, gene level and molecular level
 
 
 ****Algorithm  1  (suitable for higher number of perturbation which creates highly sparse data)
