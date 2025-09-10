@@ -17,6 +17,8 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 ****(cell, gene)****
 **** cellular level, gene level and molecular level-multimodal approach - Datasets-searching
 
+**build a multimodal framework that integrates scRNA-seq and CITE-seq data**
+
 
 ****Algorithm  1  (suitable for higher number of perturbation which creates highly sparse data)
 
