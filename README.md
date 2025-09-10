@@ -1,18 +1,18 @@
 Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting T-Cell Differentiation Using GNNs and Reinforcement Learning****
 
 
-Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20T-cell%20Supplementary%20dataset?ref_type=heads  (less expressive)
+Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20T-cell%20Supplementary%20dataset?ref_type=heads  
 
 
 
 
-#adata = sc.datasets.paul15() (highly expressive)
+#adata = sc.datasets.paul15() 
 
 
-#adata = sc.datasets.moignard15() (highly expressive)
+#adata = sc.datasets.moignard15() 
 
 
-#adata = sc.datasets.visium_sge() (highly expressive)
+#adata = sc.datasets.visium_sge() 
 
 ****(cell, gene)****
 **** cellular level, gene level and molecular level-multimodal approach - Datasets-searching
