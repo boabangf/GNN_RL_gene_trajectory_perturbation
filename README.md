@@ -33,7 +33,6 @@ Metabolomics
 **Tested Cases: MAX_PERTURB: Maximum perturbation 4,5,6,7,8,9,10**
 
 
-**MultiStep Prediction predicts the cell fate per stage, each step represents a particular cell fate** 
 
 In those environments,
 
