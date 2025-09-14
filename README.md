@@ -4,8 +4,10 @@ Title of  Talk: **** Machine Learning Optimization Methods and Their Application
 
 Videos lectures on Computational Biology: https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc
 
-
-
+<p align="center">
+  <img src="./A_flowchart_diagram_illustrates_the_interconnected.png" alt="Regulatory network diagram" width="700"/>
+</p>
+ 
 Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20T-cell%20Supplementary%20dataset?ref_type=heads  
 
 
