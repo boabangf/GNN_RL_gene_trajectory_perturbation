@@ -21,10 +21,19 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 
 #adata = sc.datasets.visium_sge() 
 
+
+#adata = sc.datasets.pbmc3k()
+
+
+
+#adata = sc.datasets.pbmc_small()
+
+
+
 ****(cell, gene)****
 **** cellular level, gene level and molecular level-multimodal approach - Datasets-searching
 
-**build a multimodal framework that integrates  -Under Construction**
+**build a multimodal framework that integrates  - Searching for optimal multimodality-Under Construction**
 
 scRNA-seq
 
