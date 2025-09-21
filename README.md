@@ -206,3 +206,6 @@ Heydari, Tiam, et al. "IQCELL: A platform for predicting the effect of gene pert
 
 
 Fu, Zeyu, et al. "scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell Data." Biology 14.6 (2025): 679.
+
+
+Theodorakis, Nikolaos, et al. "Integrating machine learning with multi-omics technologies in geroscience: towards personalized medicine." Journal of Personalized Medicine 14.9 (2024): 931.
