@@ -18,7 +18,7 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 
 #adata = sc.datasets.moignard15() 
 
-**Joint modeling of proteomics, genomics and trancriptomics(Multi-omic integration)   **
+****Joint modeling of proteomics, genomics and trancriptomics(Multi-omic integration)   ****
 
 
 #adata=sc.datasets.pbmc_multiome()
