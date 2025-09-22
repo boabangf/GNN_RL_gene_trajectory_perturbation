@@ -8,6 +8,9 @@ Videos lectures on Computational Biology: https://www.youtube.com/playlist?list=
 <img width="1536" height="1024" alt="ChatGPT Image Sep 14, 2025, 04_10_49 AM" src="https://github.com/user-attachments/assets/3ae0b7dc-06ba-4666-a498-dd11e3bfaf2d" />
 
  
+ Gene regulatory network or protein network can be included as prior knowledge into the GNN embedding
+
+ 
 Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20T-cell%20Supplementary%20dataset?ref_type=heads  
 
 
