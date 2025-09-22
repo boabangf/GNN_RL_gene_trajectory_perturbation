@@ -216,3 +216,6 @@ Fu, Zeyu, et al. "scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisi
 Theodorakis, Nikolaos, et al. "Integrating machine learning with multi-omics technologies in geroscience: towards personalized medicine." Journal of Personalized Medicine 14.9 (2024): 931.
 
 Shahzad M, Tahir MA, Alhussein M, Mobin A, Shams Malick RA, Anwar MS. NeuPD-A Neural Network-Based Approach to Predict Antineoplastic Drug Response. Diagnostics (Basel). 2023 Jun 13;13(12):2043. doi: 10.3390/diagnostics13122043. PMID: 37370938; PMCID: PMC10297062.
+
+
+H. H. L. Tam, Y. M. Ng, M. A. A. Boolaky and H. F. Ong, "Predicting Drug Resistance in Cancer Cell Lines Using Machine Learning Approaches," 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Lisbon, Portugal, 2024
