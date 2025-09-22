@@ -5,6 +5,7 @@ Title of  Talk: **** Machine Learning Optimization Methods and Their Application
 Videos lectures on Computational Biology: https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc
 
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0c5621dc-406e-4232-bdff-ad8deda11024" />
 
  
  Gene regulatory network or protein or metabolic network can be included as prior knowledge into the GNN embedding or we can consider fully data-driven case.
