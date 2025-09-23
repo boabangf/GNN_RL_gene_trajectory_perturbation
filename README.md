@@ -40,6 +40,11 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 
 
 ****(cell, gene)****
+
+
+****(drug, cell line)****
+
+
 **** cellular level, gene level and molecular level-multimodal approach - Datasets-searching
 
 **build a multimodal framework that integrates  - Searching for optimal multimodality-Under Construction**
