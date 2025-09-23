@@ -1,4 +1,4 @@
-Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting T-Cell Differentiation Using GNNs and Reinforcement Learning****
+Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting T-Cell Differentiation Using GNNs and Reinforcement Learning-UBC 5th September 2025****
 
 
 
