@@ -27,7 +27,7 @@ Genomics of Drug Sensitivity in Cancer, Cancer Cell Line Encyclopedia, PubMed
 
 ****(drug, cell line: gene expression) concatenation****
 
-****PubChem dataset(Compound tested, properties)****
+****PubChem dataset(Compound tested, properties + assay results)****
 
 #adata = sc.datasets.paul15() 
 
