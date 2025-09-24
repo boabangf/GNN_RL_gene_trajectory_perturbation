@@ -50,6 +50,8 @@ Genomics of Drug Sensitivity in Cancer, Cancer Cell Line Encyclopedia, PubMed
 
 ****(drug, cell line: gene expression) concatenation****
 
+**** PubChem dataset (Compound tested, properties) ****
+
 
 
 **** cellular level, gene level and molecular level-multimodal approach - Datasets-searching
