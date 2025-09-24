@@ -20,7 +20,14 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 ****Drug response datasets****
 
 Genomics of Drug Sensitivity in Cancer, Cancer Cell Line Encyclopedia, PubMed
+****(drug, cell line)****
 
+
+****(cell line, gene expression)****
+
+****(drug, cell line: gene expression) concatenation****
+
+****PubChem dataset(Compound tested, properties)****
 
 #adata = sc.datasets.paul15() 
 
@@ -43,14 +50,7 @@ Genomics of Drug Sensitivity in Cancer, Cancer Cell Line Encyclopedia, PubMed
 
 
 
-****(drug, cell line)****
 
-
-****(cell line, gene expression)****
-
-****(drug, cell line: gene expression) concatenation****
-
-**** PubChem dataset (Compound tested, properties) ****
 
 
 
