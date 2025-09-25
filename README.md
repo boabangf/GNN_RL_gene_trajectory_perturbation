@@ -17,7 +17,7 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 
 
 
-****Drug response datasets****
+****Drug response (IC50 values METRICS-RMSE, MSE, MAE, R^2) datasets****
 
 Genomics of Drug Sensitivity in Cancer, Cancer Cell Line Encyclopedia, PubMed
 
