@@ -38,7 +38,6 @@ Genomics of Drug Sensitivity in Cancer, Cancer Cell Line Encyclopedia, PubMed
 
 #adata = sc.datasets.moignard15() 
 
-****Joint modeling of proteomics, genomics and trancriptomics(Multi-omic integration)   ****
 
 
 #adata=sc.datasets.pbmc_multiome()
@@ -63,6 +62,7 @@ Genomics of Drug Sensitivity in Cancer, Cancer Cell Line Encyclopedia, PubMed
 **build a multimodal framework that integrates  - Searching for optimal multimodality-Under Construction**
 
 
+****Joint modeling of proteomics, genomics and trancriptomics(Multi-omic integration)   ****
 
 <img width="1100" height="700" alt="image" src="https://github.com/user-attachments/assets/dd79fdfc-2835-4987-b2d6-dfb3aeadbfaa" />
 
