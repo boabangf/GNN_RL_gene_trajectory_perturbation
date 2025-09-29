@@ -12,7 +12,9 @@ Videos lectures on Computational Biology: https://www.youtube.com/playlist?list=
  
 I hold the view point that  creating completely data-driven model can outperform methods that include prior knowledge from regulatory networks.
 
- 
+
+
+
 Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20T-cell%20Supplementary%20dataset?ref_type=heads  
 
 
