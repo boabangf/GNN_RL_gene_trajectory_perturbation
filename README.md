@@ -62,13 +62,10 @@ Genomics of Drug Sensitivity in Cancer, Cancer Cell Line Encyclopedia, PubMed
 
 **build a multimodal framework that integrates  - Searching for optimal multimodality-Under Construction**
 
-scRNA-seq
 
-Proteins (CITE-seq, CyTOF)
 
-Chromatin accessibility (ATAC-seq)
+<img width="1100" height="700" alt="image" src="https://github.com/user-attachments/assets/dd79fdfc-2835-4987-b2d6-dfb3aeadbfaa" />
 
-Metabolomics
 
 
 ****Algorithm  1  (METRICS-RMSE, MSE, MAE, R^2 )
