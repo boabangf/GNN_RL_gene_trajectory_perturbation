@@ -71,7 +71,7 @@ Chromatin accessibility (ATAC-seq)
 Metabolomics
 
 
-****Algorithm  1  (Resolving overfitting issue by checking the train and test metrics )
+****Algorithm  1  (METRICS-RMSE, MSE, MAE, R^2 )
 
 **Tested Cases: MAX_PERTURB: Maximum perturbation 4,5,6,7,8,9,10**
 
