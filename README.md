@@ -59,7 +59,7 @@ Genomics of Drug Sensitivity in Cancer, Cancer Cell Line Encyclopedia, PubMed
 
 **** cellular level, gene level and molecular level-multimodal approach - Datasets-searching
 
-**build a multimodal framework that integrates  - Searching for optimal multimodality-Under Construction**
+**build a multimodal framework that integrates  - RNA, CITE, ATAC dataset with silico perturbation (crisper)**
 
 
 ****Joint modeling of proteomics, genomics and trancriptomics(Multi-omic integration)   ****
