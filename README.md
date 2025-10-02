@@ -21,47 +21,8 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 
 
 
-****Drug response (IC50 values METRICS-RMSE, MSE, MAE, R^2) datasets****
 
-Genomics of Drug Sensitivity in Cancer, Cancer Cell Line Encyclopedia, PubMed
-
-
-****(drug, cell line)****
-
-
-****(cell line, gene expression)****
-
-****(drug, cell line: gene expression) concatenation****
-
-****PubChem dataset(Compound tested, properties + assay results)****
-
-#adata = sc.datasets.paul15() 
-
-
-#adata = sc.datasets.moignard15() 
-
-
-
-#adata=sc.datasets.pbmc_multiome()
-
-#adata = sc.datasets.visium_sge() 
-
-
-#adata = sc.datasets.pbmc3k()
-
-
-
-#adata = sc.datasets.pbmc_small()
-
-
-
-
-
-
-
-**** cellular level, gene level and molecular level-multimodal approach - Datasets-searching
-
-**build a multimodal framework that integrates  - RNA, CITE, ATAC dataset with in-silico perturbation (i.e., crisper, cytokine simulation, drug perturbation)**
+**build a multimodal framework that integrates  - RNA, CITE, ATAC dataset with in-silico perturbation (i.e., crisper, cytokine simulation, drug perturbation)- select mode: RNA, ATAC or ALL(JOINT)**
 
 
 ****Joint modeling of proteomics, genomics and trancriptomics(Multi-omic integration)   ****
