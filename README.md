@@ -3,6 +3,8 @@ Title of  Talk: **** Machine Learning Optimization Methods and Their Application
 
 ***1st Draft Research Paper title-Escaping Local Optima in the Waddington Landscape: A TRPO–PPO Multi-Stage Approach for Single-Cell Perturbation Effect Prediction-Zandstra Lab**
 
+https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/MultiModal-TRPO-PPO(RNA%2C%20ATAC%2C%20CITE).ipynb
+
 
 
 *** New Research Direction from Epitopea*** ****Class II antigen detection using machine learning-1st October 2025****
