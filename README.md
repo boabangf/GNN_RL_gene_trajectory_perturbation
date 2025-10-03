@@ -7,7 +7,7 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/MultiM
 
 
 
-*** New Research Direction from Epitopea*** ****Class II antigen detection using machine learning in immunogenomics-1st October 2025****
+*** New Research Direction from Epitopea*** ****Class II antigen detection using machine learning in immunogenomics(Neural networks with bidirectional encoding)-1st October 2025****
 
 
 Videos lectures on Computational Biology: https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc
