@@ -1,7 +1,7 @@
 Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting Stem Cell Differentiation Using GNNs and Reinforcement Learning-UBC 5th September 2025****
 
 
-*** New Research Direction from Epitopea*** ****Class II antigen detection using machine learning****
+*** New Research Direction from Epitopea*** ****Class II antigen detection using machine learning-1st October 2025****
 
 
 Videos lectures on Computational Biology: https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc
