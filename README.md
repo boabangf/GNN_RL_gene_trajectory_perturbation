@@ -1,6 +1,10 @@
 Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting Stem Cell Differentiation Using GNNs and Reinforcement Learning-UBC 5th September 2025****
 
 
+***Draft Research Paper title-Escaping Local Optima in the Waddington Landscape: A TRPO–PPO Multi-Stage Approach for Single-Cell Perturbation Effect Prediction-Zandstra Lab**
+
+
+
 *** New Research Direction from Epitopea*** ****Class II antigen detection using machine learning-1st October 2025****
 
 
