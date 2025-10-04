@@ -62,6 +62,8 @@ This dual learning rate mechanism enhances the optimizer’s ability to (i) expl
 
 <img width="863" height="213" alt="Screenshot 2025-10-03 at 9 40 45 PM" src="https://github.com/user-attachments/assets/a8912028-7418-4b94-a5ac-53f95cf9a016" />
 
+<img width="484" height="102" alt="image" src="https://github.com/user-attachments/assets/65aeb857-bcf0-46d1-8feb-0d7c16477687" />
+
 
 **Possible Cases: MAX_PERTURB: Maximum perturbation 4,5,6,7,8,9,10**
 
