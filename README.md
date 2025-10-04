@@ -45,7 +45,10 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 ****Timeseries Prediction: NonConvex Case and Strongly Convex CASE-Focus on multistep prediction on expression dataset****
 
 ****MAX_STEPS = 300 to reaach a particular lineage****
-Dv_t=H_t-H_{t-1}
+
+
+<img width="863" height="362" alt="Screenshot 2025-10-03 at 9 47 02 PM" src="https://github.com/user-attachments/assets/d6e10cf9-7e18-4082-a52d-df298adac66a" />
+
 
 The proposed ASGDAdam/ASGDAmsgrad optimizers (nonconvex case) are particularly well-suited for step-ahead prediction of cell fate and lineage using single-cell gene expression data. These datasets are inherently sparse, with a large fraction of entries consisting of zeros due to gene perturbations, and they exhibit strong variability across temporal or pseudotime trajectories. In the context of multistep-ahead prediction, this variability is amplified: early prediction errors can propagate forward, making stability in optimization crucial.
 
@@ -56,20 +59,8 @@ This dual learning rate mechanism enhances the optimizer’s ability to (i) expl
 
 ****High Perturbation Scenario-Under Construction***
 
-dv = v - state['v_prev']
-state['v_prev'].copy_(v)
+<img width="863" height="213" alt="Screenshot 2025-10-03 at 9 40 45 PM" src="https://github.com/user-attachments/assets/a8912028-7418-4b94-a5ac-53f95cf9a016" />
 
-f_min = (dv > 0).to(dtype=torch.int32)
-f_max = (dv <= 0).to(dtype=torch.int32)
-
-total_nonzero_fmin += torch.count_nonzero(f_min).item()
-total_nonzero_fmax += torch.count_nonzero(f_max).item()
-
-mhat = m / (1 - beta1 ** t)
-state['step_dir'] = mhat / denom
-
-# --- after the loop ---
-use_lr_min = (2 * total_nonzero_fmax < total_nonzero_fmin)
 
 **Possible Cases: MAX_PERTURB: Maximum perturbation 4,5,6,7,8,9,10**
 
