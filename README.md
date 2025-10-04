@@ -56,7 +56,20 @@ This dual learning rate mechanism enhances the optimizer’s ability to (i) expl
 
 ****High Perturbation Scenario-Under Construction***
 
-<img width="863" height="213" alt="Screenshot 2025-10-03 at 9 40 45 PM" src="https://github.com/user-attachments/assets/56d7e786-11f4-4d4a-b399-2d138ef27cb4" />
+dv = v - state['v_prev']
+state['v_prev'].copy_(v)
+
+f_min = (dv > 0).to(dtype=torch.int32)
+f_max = (dv <= 0).to(dtype=torch.int32)
+
+total_nonzero_fmin += torch.count_nonzero(f_min).item()
+total_nonzero_fmax += torch.count_nonzero(f_max).item()
+
+mhat = m / (1 - beta1 ** t)
+state['step_dir'] = mhat / denom
+
+# --- after the loop ---
+use_lr_min = (2 * total_nonzero_fmax < total_nonzero_fmin)
 
 **Possible Cases: MAX_PERTURB: Maximum perturbation 4,5,6,7,8,9,10**
 
