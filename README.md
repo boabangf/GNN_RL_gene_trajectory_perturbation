@@ -37,23 +37,31 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 
 
 
-****Algorithm  1  (METRICS-RMSE, MSE, MAE, R^2 )
-
-**Tested Cases: MAX_PERTURB: Maximum perturbation 4,5,6,7,8,9,10**
+****Algorithm  1  (METRICS-RMSE, MSE, MAE, R^2 )****
 
 
 
-In those environments,
+ 
+****Timeseries Prediction: NonConvex Case and Strongly Convex CASE-Focus on multistep prediction on expression dataset****
 
-MAX_PERTURB = the maximum number of perturbations allowed per single cell (during training episodes).
 
-If MAX_PERTURB = 1 : only single-gene perturbations.
+The proposed ASGDAdam/ASGDAmsgrad optimizers (nonconvex case) are particularly well-suited for step-ahead prediction of cell fate and lineage using single-cell gene expression data. These datasets are inherently sparse, with a large fraction of entries consisting of zeros due to gene perturbations, and they exhibit strong variability across temporal or pseudotime trajectories. In the context of multistep-ahead prediction, this variability is amplified: early prediction errors can propagate forward, making stability in optimization crucial.
 
-If MAX_PERTURB = 2 : allows double perturbations (pairwise knockouts).
+Traditional optimizers with a fixed base learning rate often struggle in this setting. A static learning rate may be too conservative, slowing convergence across many zero-gradient steps, or too aggressive, leading to instability when the model encounters rare but highly informative non-zero updates. By contrast, the proposed ASGD-based optimizers dynamically alternate between a cautious learning rate (lr_max) and a more aggressive one (lr_max), enabling them to adjust effectively to the shifting gradient landscape.
 
-If MAX_PERTURB = N (where N = total number of genes) 
+This dual learning rate mechanism enhances the optimizer’s ability to (i) exploit informative non-zero updates to capture critical regulatory signals for predicting future cell states, and (ii) maintain stability across long sequences of sparse, noisy updates where error accumulation is a risk. As a result, the method is better aligned with the demands of multistep-ahead cell fate prediction, where capturing both immediate and downstream transitions in gene expression trajectories requires an optimizer that can flexibly adapt to fluctuations in sparsity and variability.
 
-The proposed ASGDAdam/ASGDAmsgrad optimizers (nonconvex case) are particularly well-suited for training on single-cell gene expression datasets, which are characterized by high sparsity—that is, a large proportion of the data consists of zeros due to gene perturbation. In such sparse settings, gradient updates often fluctuate between informative signals (non-zero values) and noise (zeros). A fixed base learning rate may either be too aggressive, leading to instability when rare informative signals appear, or too conservative, slowing convergence when the model mostly encounters zeros. By dynamically switching between a cautious base learning rate (lr_min) and a more aggressive one (lr_max), the ASGD optimizers adapt more effectively to these shifts. This dual learning rate mechanism allows the optimizer to exploit informative non-zero updates when available while avoiding overshooting during the many zero-gradient steps, making the training process more stable and better aligned with the properties of gene expression data.
+
+****High Perturbation Scenario-Under Construction***
+
+
+**Possible Cases: MAX_PERTURB: Maximum perturbation 4,5,6,7,8,9,10**
+
+The proposed ASGDAdam/ASGDAmsgrad optimizers (nonconvex case) are particularly well-suited for step-ahead prediction of cell fate and lineage using single-cell gene expression data. These datasets are inherently sparse, with a large fraction of entries consisting of zeros due to gene perturbations, and they exhibit strong variability across temporal or pseudotime trajectories. In the context of multistep-ahead prediction, this variability is amplified: early prediction errors can propagate forward, making stability in optimization crucial.
+
+Traditional optimizers with a fixed base learning rate often struggle in this setting. A static learning rate may be too conservative, slowing convergence across many zero-gradient steps, or too aggressive, leading to instability when the model encounters rare but highly informative non-zero updates. By contrast, the proposed ASGD-based optimizers dynamically alternate between a cautious learning rate (lr_max) and a more aggressive one (lr_max), enabling them to adjust effectively to the shifting gradient landscape.
+
+This dual learning rate mechanism enhances the optimizer’s ability to (i) exploit informative non-zero updates to capture critical regulatory signals for predicting future cell states, and (ii) maintain stability across long sequences of sparse, noisy updates where error accumulation is a risk. As a result, the method is better aligned with the demands of multistep-ahead cell fate prediction, where capturing both immediate and downstream transitions in gene expression trajectories requires an optimizer that can flexibly adapt to fluctuations in sparsity and variability.
 
 
 
