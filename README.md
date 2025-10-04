@@ -47,7 +47,8 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 ****MAX_STEPS = 300 to reaach a particular lineage****
 
 
-<img width="863" height="362" alt="Screenshot 2025-10-03 at 9 47 02 PM" src="https://github.com/user-attachments/assets/d6e10cf9-7e18-4082-a52d-df298adac66a" />
+<img width="863" height="362" alt="Screenshot 2025-10-03 at 9 47 02 PM" src="https://github.com/user-attachments/assets/3d83af32-3128-4113-af17-d46d7cd53ef9" />
+
 
 
 The proposed ASGDAdam/ASGDAmsgrad optimizers (nonconvex case) are particularly well-suited for step-ahead prediction of cell fate and lineage using single-cell gene expression data. These datasets are inherently sparse, with a large fraction of entries consisting of zeros due to gene perturbations, and they exhibit strong variability across temporal or pseudotime trajectories. In the context of multistep-ahead prediction, this variability is amplified: early prediction errors can propagate forward, making stability in optimization crucial.
