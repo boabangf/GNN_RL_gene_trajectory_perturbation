@@ -44,7 +44,7 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
  
 ****Timeseries Prediction: NonConvex Case and Strongly Convex CASE-Focus on multistep prediction on expression dataset****
 
-****MAX_STEPS = 300 to reaach a particular lineage****
+****MAX_STEPS > 200 to reaach a particular lineage****
 
 
 <img width="863" height="362" alt="Screenshot 2025-10-03 at 9 47 02 PM" src="https://github.com/user-attachments/assets/3d83af32-3128-4113-af17-d46d7cd53ef9" />
@@ -65,7 +65,7 @@ This dual learning rate mechanism enhances the optimizer’s ability to (i) expl
 <img width="484" height="102" alt="image" src="https://github.com/user-attachments/assets/65aeb857-bcf0-46d1-8feb-0d7c16477687" />
 
 
-**Possible Cases: MAX_PERTURB: Maximum perturbation 4,5,6,7,8,9,10**
+**Possible Cases: MAX_PERTURB: Maximum perturbation 4,5,6,7,8,9,10 or more and MAX perturbation probability 0.1-1 **
 
 
 
