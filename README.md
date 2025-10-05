@@ -44,7 +44,7 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
 
 
  
-****Timeseries Prediction: NonConvex Case and Strongly Convex CASE-Focusing on multistep prediction(multistep differentiation)  to reach a particular lineage****
+****Timeseries Prediction: NonConvex  and Strongly Convex cases: Focusing on multistep prediction(multistep differentiation)  to reach a particular lineage****
 
 ****MAX_STEPS > 200 to reach a particular lineage****
 
