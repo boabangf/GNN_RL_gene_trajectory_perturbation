@@ -57,21 +57,7 @@ The proposed ASGDAdam/ASGDAmsgrad optimizers (nonconvex case) are particularly w
 
 Traditional optimizers with a fixed base learning rate often struggle in this setting. A static learning rate may be too conservative, slowing convergence across many zero-gradient steps, or too aggressive, leading to instability when the model encounters rare but highly informative non-zero updates. By contrast, the proposed ASGD-based optimizers dynamically alternate between a cautious learning rate (lr_max) and a more aggressive one (lr_max), enabling them to adjust effectively to the shifting gradient landscape.
 
-This dual learning rate mechanism enhances the optimizer’s ability to (i) exploit informative non-zero updates to capture critical regulatory signals for predicting future cell states, and (ii) maintain stability across long sequences of sparse, noisy updates where error accumulation is a risk. As a result, the method is better aligned with the demands of multistep-ahead cell fate prediction, where capturing both immediate and downstream transitions in gene expression trajectories requires an optimizer that can flexibly adapt to fluctuations in sparsity and variability.
-
-
-****High Perturbation Scenario-High sparsity-Under Construction***
-
-<img width="863" height="213" alt="Screenshot 2025-10-03 at 9 40 45 PM" src="https://github.com/user-attachments/assets/a8912028-7418-4b94-a5ac-53f95cf9a016" />
-
-<img width="484" height="102" alt="image" src="https://github.com/user-attachments/assets/65aeb857-bcf0-46d1-8feb-0d7c16477687" />
-
-
-**Possible Cases: MAX_PERTURB: Maximum perturbation 4,5,6,7,8,9,10 or more and MAX perturbation probability 0.1-1 **
-
-
-
-
+This dual learning rate mechanism enhances the optimizer’s ability to (i) exploit informative non-zero updates to capture critical regulatory signals for predicting future cell states, and (ii) maintain stability across long sequences of  noisy updates where error accumulation is a risk. As a result, the method is better aligned with the demands of multistep-ahead cell fate prediction, where capturing both immediate and downstream transitions in gene expression trajectories requires an optimizer that can flexibly adapt to fluctuations in  variability.
 
 
 
