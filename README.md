@@ -7,7 +7,7 @@ Title of  Talk: **** Machine Learning Optimization Methods and Their Application
 
 
 
-*** New Research Direction from Epitopea*** ****Class II immune system recognition and response using machine learning**** 
+*** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning**** 
 
 ****(Optimization of Neural networks with bidirectional encoding, Transformer based methods with Reinforcement learning to improve class II antigenic landscape)-1st October 2025****
 
