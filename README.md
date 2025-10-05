@@ -7,7 +7,9 @@ Title of  Talk: **** Machine Learning Optimization Methods and Their Application
 
 
 
-*** New Research Direction from Epitopea*** ****Class II antigen detection using machine learning in immunogenomics(Optimization of Neural networks with bidirectional encoding, Transformer based methods with Reinforcement learning to improve class II antigenic landscape)-1st October 2025****
+*** New Research Direction from Epitopea*** ****Class II immune system recognition and response using machine learning 
+
+(Optimization of Neural networks with bidirectional encoding, Transformer based methods with Reinforcement learning to improve class II antigenic landscape)-1st October 2025****
 
 
 Videos lectures on Computational Biology: https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc
