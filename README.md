@@ -58,7 +58,7 @@ Traditional optimizers with a fixed base learning rate often struggle in this se
 This dual learning rate mechanism enhances the optimizer’s ability to (i) exploit informative non-zero updates to capture critical regulatory signals for predicting future cell states, and (ii) maintain stability across long sequences of sparse, noisy updates where error accumulation is a risk. As a result, the method is better aligned with the demands of multistep-ahead cell fate prediction, where capturing both immediate and downstream transitions in gene expression trajectories requires an optimizer that can flexibly adapt to fluctuations in sparsity and variability.
 
 
-****High Perturbation Scenario-Under Construction***
+****High Perturbation Scenario-High sparsity-Under Construction***
 
 <img width="863" height="213" alt="Screenshot 2025-10-03 at 9 40 45 PM" src="https://github.com/user-attachments/assets/a8912028-7418-4b94-a5ac-53f95cf9a016" />
 
