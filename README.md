@@ -5,15 +5,15 @@ Title of  Talk: **** Machine Learning Optimization Methods and Their Application
 
 https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Escaping_Local_Optima_in_the_Waddington_Landscape__A_Multi_Stage_TRPO_PPO_Approach_for_Single_Cell_Perturbation_Analysis.pdf
 
+[https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/MultiModal-TRPO-PPO(RNA%2C%20ATAC%2C%20CITE).ipynb](https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/MultiModal-TRPO-PPO(RNA%2C%20ATAC%2C%20CITE).ipynb)
 
 
 ****2nd Draft Enhanced Adaptive Stochastic Gradient Descent Algorithm and Its Application to Single-Cell Perturbation Analysis****
 
-[https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/MultiModal-TRPO-PPO(RNA%2C%20ATAC%2C%20CITE).ipynb](https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/MultiModal-TRPO-PPO(RNA%2C%20ATAC%2C%20CITE).ipynb)
-
 
 
 *** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning**** 
+
 
 ****(Optimization of Neural networks with bidirectional encoding, Transformer based methods with Reinforcement learning to improve class II antigenic landscape)-1st October 2025****
 
