@@ -1,7 +1,7 @@
 Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting Stem Cell Differentiation Using GNNs and Reinforcement Learning-UBC 5th September 2025****
 
 
-***1st Draft Research Paper title-Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis-Zandstra Lab**
+***1st Draft Research Paper title-Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis**
 
 ****2nd Draft Enhanced Adaptive Stochastic Gradient Descent Algorithm and Its Application to Single-Cell Perturbation Analysis****
 
