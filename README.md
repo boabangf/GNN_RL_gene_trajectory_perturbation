@@ -61,6 +61,10 @@ Traditional optimizers with a fixed base learning rate often struggle in this se
 
 This dual learning rate mechanism enhances the optimizer’s ability to (i) exploit informative non-zero updates to capture critical regulatory signals for predicting future cell states, and (ii) maintain stability across long sequences of  noisy updates where error accumulation is a risk. As a result, the method is better aligned with the demands of multistep-ahead cell fate prediction, where capturing both immediate and downstream transitions in gene expression trajectories requires an optimizer that can flexibly adapt to fluctuations in  variability.
 
+****Classification or Cell fate Determination****
+
+<img width="651" height="646" alt="image" src="https://github.com/user-attachments/assets/1c657469-294c-4643-8384-0845169f03e1" />
+
 
 
 
