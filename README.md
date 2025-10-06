@@ -228,6 +228,8 @@ Shahzad M, Tahir MA, Alhussein M, Mobin A, Shams Malick RA, Anwar MS. NeuPD-A Ne
 
 Tang, Xiangru, et al. "scAgents: A Multi-Agent Framework for Fully Autonomous End-to-End Single-Cell Perturbation Analysis." ICML 2025 Generative AI and Biology (GenBio) Workshop.
 
+Yu, T., Ekbote, C., Morozov, N., Fan, J., Frossard, P., d’Ascoli, S., & Brbić, M. (2025). Tissue reassembly with generative AI. bioRxiv, 2025-02.
+
 
 H. H. L. Tam, Y. M. Ng, M. A. A. Boolaky and H. F. Ong, "Predicting Drug Resistance in Cancer Cell Lines Using Machine Learning Approaches," 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Lisbon, Portugal, 2024
 
