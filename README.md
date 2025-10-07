@@ -16,6 +16,8 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Escapi
 
 ****Major Histocompatibility Complex (MHC) class II molecules are essential for immune recognition by presenting antigenic peptides to CD4⁺ T cells, a process critical for vaccine design and immunotherapy. However, accurately predicting peptide–MHC class II interactions remains challenging due to molecular diversity and complex binding mechanisms. This study proposes an advanced machine learning framework integrating bidirectional encoding, transformer-based architectures, and reinforcement learning optimization to enhance class II antigen recognition and response modeling. Peptide and MHC sequences will be encoded using contextual representations derived from bidirectional neural networks and transformer attention mechanisms, enabling the model to capture both local and global dependencies. A reinforcement learning loop will iteratively refine predictions based on biological relevance, improving the interpretability and accuracy of antigen binding landscapes. The model will be trained and evaluated using benchmark datasets such as IEDB, with performance measured through accuracy, F1-score, and AUC metrics. Expected outcomes include improved predictive performance, deeper insight into peptide MHC binding mechanisms, and a scalable framework for applications in immunotherapy and vaccine discovery.-1st October 2025****
 
+****Link to sample dataset: https://www.iedb.org/****
+
 
 Videos lectures on Computational Biology: https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc
 
