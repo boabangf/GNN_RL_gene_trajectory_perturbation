@@ -3,6 +3,8 @@ Title of  Talk: **** Machine Learning Optimization Methods and Their Application
 
 ***1st Draft Research Paper title-Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis**
 
+https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/Escaping_Local_Optima_in_the_Waddington_Landscape__A_Multi_Stage_TRPO_PPO_Approach_for_Single_Cell_Perturbation_Analysis.pdf
+
 
 ****2nd Draft Enhanced Adaptive Stochastic Gradient Descent Algorithm and Its Application to Single-Cell Perturbation Analysis****
 
