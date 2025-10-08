@@ -5,7 +5,9 @@ Title of  Talk: **** Machine Learning Optimization Methods and Their Application
 
 https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Escaping_Local_Optima_in_the_Waddington_Landscape__A_Multi_Stage_TRPO_PPO_Approach_for_Single_Cell_Perturbation_Analysis.pdf
 
-[https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/MultiModal-TRPO-PPO(RNA%2C%20ATAC%2C%20CITE).ipynb](https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/MultiModal-TRPO-PPO(RNA%2C%20ATAC%2C%20CITE).ipynb)
+[https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main]
+
+https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/
 
 
 ****2nd Draft Enhanced Adaptive Stochastic Gradient Descent Algorithm and Its Application to Single-Cell Perturbation Analysis****
