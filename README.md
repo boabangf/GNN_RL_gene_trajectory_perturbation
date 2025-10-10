@@ -72,7 +72,7 @@ This dual learning rate mechanism enhances the optimizer’s ability to (i) expl
 
 <img width="651" height="646" alt="image" src="https://github.com/user-attachments/assets/1c657469-294c-4643-8384-0845169f03e1" />
 
-[https://scholar.google.com/citations?user=n3GTjHIAAAAJ&hl=en](https://spectrum.library.concordia.ca/id/eprint/994877/)
+https://spectrum.library.concordia.ca/id/eprint/994877/
 
 
 In reinforcement learning, you can force local optima by:
