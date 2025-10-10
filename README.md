@@ -5,7 +5,7 @@ We are trying  to help people recover from cancer and other immune dieases throu
 Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting Stem Cell Differentiation Using GNNs and Reinforcement Learning-UBC 5th September 2025****
 
 
-***1st Draft Research Paper title-Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis**
+***Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis- Under Review in IEEE Transactions on Computational Biology and Bioinformatics **
 
 https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/Escaping_Local_Optima_in_the_Waddington_Landscape__A_Multi_Stage_TRPO_PPO_Approach_for_Single_Cell_Perturbation_Analysis.pdf
 
