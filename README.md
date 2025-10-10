@@ -51,7 +51,7 @@ Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20
  
 ****Timeseries Prediction: NonConvex  and Strongly Convex cases: Focusing on multistep prediction(multistep differentiation)  to reach a particular lineage****
 
-****MAX_STEPS > 200 to reach a particular lineage****
+****MAX_STEPS > 200 to reach a particular lineage with single or double perturbation****
 
 
 <img width="863" height="362" alt="Screenshot 2025-10-03 at 9 47 02 PM" src="https://github.com/user-attachments/assets/3d83af32-3128-4113-af17-d46d7cd53ef9" />
