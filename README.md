@@ -1,4 +1,4 @@
-We are trying  to help people recover from cancer and treats autoimmune diseases by cell reprogramming by developing a digital twin of wet-lab stem cell differentiation experiments. This digital twin will enable bioinformaticians to simulate and fine-tune their models more efficiently, accelerating discoveries and improving personalized treatment strategies.
+We want to help people recover from cancer and treats autoimmune diseases by cell reprogramming by developing a digital twin of wet-lab stem cell differentiation experiments. This digital twin will enable bioinformaticians to simulate and fine-tune their models more efficiently, accelerating discoveries and improving personalized treatment strategies.
 
 
 
