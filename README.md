@@ -5,7 +5,7 @@
 UBC 5th September 2025, Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting Stem Cell Differentiation Using GNNs and Reinforcement Learning-UBC 5th September 2025****
 
 
-***Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis- Under Review in IEEE Transactions on Computational Biology and Bioinformatics***
+***Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis - Under Review in IEEE Transactions on Computational Biology and Bioinformatics***
 
 https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/Escaping_Local_Optima_in_the_Waddington_Landscape__A_Multi_Stage_TRPO_PPO_Approach_for_Single_Cell_Perturbation_Analysis.pdf
 
@@ -14,7 +14,7 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-
 
 
 
-*** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning**** 
+*** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning(Modeling Antigentic Landscape)**** 
 
 ****Major Histocompatibility Complex (MHC) class II molecules are essential for immune recognition by presenting antigenic peptides to CD4⁺ T cells, a process critical for vaccine design and immunotherapy. However, accurately predicting peptide–MHC class II interactions remains challenging due to molecular diversity and complex binding mechanisms. This study proposes an advanced machine learning framework integrating bidirectional encoding, transformer-based architectures, and reinforcement learning optimization to enhance class II antigen recognition and response modeling. Peptide and MHC sequences will be encoded using contextual representations derived from bidirectional neural networks and transformer attention mechanisms, enabling the model to capture both local and global dependencies. A reinforcement learning loop will iteratively refine predictions based on biological relevance, improving the interpretability and accuracy of antigen binding landscapes. The model will be trained and evaluated using benchmark datasets such as IEDB, with performance measured through accuracy, F1-score, and AUC metrics. Expected outcomes include improved predictive performance, deeper insight into peptide MHC binding mechanisms, and a scalable framework for applications in immunotherapy and vaccine discovery.-1st October 2025****
 
