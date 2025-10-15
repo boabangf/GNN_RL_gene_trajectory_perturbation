@@ -20,8 +20,8 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-
 
 ****Link to sample dataset: https://www.iedb.org/****
 
+<img width="1536" height="1024" alt="Class II Antigen Processing Diagram" src="https://github.com/user-attachments/assets/1c19790d-8c9c-43c2-96b6-fa580aada065" />
 
-![Uploading image.png…]()
 
 
 
