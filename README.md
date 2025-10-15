@@ -22,24 +22,8 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-
 <img width="1536" height="1024" alt="Class II Antigen Processing Diagram" src="https://github.com/user-attachments/assets/1c19790d-8c9c-43c2-96b6-fa580aada065" />
 
 
-Peptide sequence + MHC allele
-           │
-           ▼
-   Binding Module (CNN/RNN/Transformer)
-           │
-     Peptide-MHC embedding
-           │
-           ▼
-    TCR Recognition Module (Transformer + RL)
-           │
-   Recognition probability / action
-           │
-           ▼
-Immune Response Module (MLP/GNN + RL)
-           │
- Cytokine levels / proliferation / differentiation
 
-
+<img width="1024" height="1536" alt="ChatGPT Image Oct 15, 2025, 03_12_04 AM" src="https://github.com/user-attachments/assets/3cc29d2f-ba87-4c5f-9bab-7525518e79b3" />
 
 
 
