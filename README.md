@@ -21,9 +21,8 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-
 ****Link to sample dataset: https://www.iedb.org/****
 
 
-Videos lectures on Computational Biology: https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc
+![Uploading image.png…]()
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e8f3437-b3fb-4b92-8f7a-e20ad7eafa3d" />
 
 
  
