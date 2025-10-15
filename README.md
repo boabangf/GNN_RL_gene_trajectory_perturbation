@@ -23,22 +23,6 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-
 
 
 
-
- 
- Gene regulatory network or protein or metabolic network can be included as prior knowledge into the GNN embedding or we can consider fully data-driven case.
- 
-I hold the view point that  creating completely data-driven model can outperform methods that include prior knowledge from regulatory networks.
-
-
-
-
-Dataset: https://gitlab.com/stemcellbioengineering/iqcell/-/tree/master/Mouse%20T-cell%20Supplementary%20dataset?ref_type=heads  
-
-
-
-
-
-
 ***CITATION**
 
 
