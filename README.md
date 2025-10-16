@@ -7,7 +7,7 @@ UBC Seminar: 5th September 2025, Title of  Talk: **** Machine Learning Optimizat
 
 ***Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis - Under Review in IEEE Transactions on Computational Biology and Bioinformatics***
 
-https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/Escaping_Local_Optima_in_the_Waddington_Landscape__A_Multi_Stage_TRPO_PPO_Approach_for_Single_Cell_Perturbation_Analysis.pdf
+(https://arxiv.org/html/2510.13018v1)
 
 ****Initial Paper Draft(To be submitted) - Enhanced Adaptive Stochastic Gradient Descent: Convergence Analysis and Its Application in Single-Cell Perturbation Analysis (possible venue -IEEE TNNLS)****
 
