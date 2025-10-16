@@ -1,5 +1,4 @@
-**Our mission:** We want to help people recover from cancer and treats autoimmune diseases by cell reprogramming and developing a digital twin of wet-lab stem cell differentiation experiments. This digital twin will enable bioinformaticians to simulate and fine-tune their models more efficiently, accelerating discoveries and improving personalized treatment strategies.
-
+**Our mission**  is to accelerate recovery from cancer and combat autoimmune diseases through advanced cellular reprogramming and the development of a digital twin of wet-lab stem cell differentiation experiments. This digital twin will empower bioinformaticians to simulate, optimize, and refine cellular models within the context of wet-lab differentiation, driving faster discoveries, enhancing predictive accuracy, and enabling more personalized and effective therapeutic interventions.
 
 
 UBC Seminar: 5th September 2025, Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting Stem Cell Differentiation Using GNNs and Reinforcement Learning-UBC 5th September 2025****
