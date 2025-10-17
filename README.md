@@ -18,7 +18,11 @@ Link to gitlab for double bind submission: https://github.com/TNNLS-PeerReview/A
 
 *** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning(Modeling Antigentic Landscape)1st October 2025****
 
-CD8-class I  CD4-class II T cell receptors co receptors
+TCR-CD8-MHC I - Immune Response
+
+
+TCR-CD4-class II -Immune Response
+
 
 ****Link to sample dataset: https://www.iedb.org/****
 
@@ -27,7 +31,7 @@ CD8-class I  CD4-class II T cell receptors co receptors
 
 
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9534ac7d-a1a0-436a-bc6b-71583ae244bf" />
+
 
 
 
