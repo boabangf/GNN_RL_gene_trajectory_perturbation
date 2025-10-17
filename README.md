@@ -24,7 +24,8 @@ TCR-CD8-MHC I - Immune Response
 TCR-CD4-class II -Immune Response
 
 
-https://chatgpt.com/s/m_68f227bac56081919cfd3b8a00a6eb32
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0183722f-82eb-4978-821f-7df361971b77" />
+
 
 ****Link to sample dataset: https://www.iedb.org/****
 
