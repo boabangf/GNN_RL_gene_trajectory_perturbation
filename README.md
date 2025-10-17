@@ -13,7 +13,7 @@ UBC Seminar: 5th September 2025, Title of  Talk: **** Machine Learning Optimizat
 
 https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/Enhanced_Adaptive_Stochastic_Gradient_Descent__Convergence_Analysis_and_Its_Application_in_Single_Cell_Perturbation_Analysis.pdf
 
-Link to gitlab for double bind submission: https://gitlab.com/researchpaper-group/adaptive-sgd/-/blob/main/MultiModal_Nonconvex_Optimizer_RNA-ATAC-CITE_modalities_-updated.ipynb
+Link to gitlab for double bind submission: https://github.com/TNNLS-PeerReview/ASGD-ADAM/tree/main
 
 
 *** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning(Modeling Antigentic Landscape)1st October 2025****
