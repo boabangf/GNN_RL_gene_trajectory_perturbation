@@ -24,8 +24,7 @@ TCR-CD8-MHC I - Immune Response
 TCR-CD4-class II -Immune Response
 
 
-Recognition, binding, and immune-response prototype with a GAT-style encoder ****(Under Construction)****
-and a small RL (REINFORCE) cytokine policy
+Recognition, binding, and immune-response prototype with a GAT-style encoder and a small RL (REINFORCE) cytokine policy ****(Under Construction)****
 
 
 
