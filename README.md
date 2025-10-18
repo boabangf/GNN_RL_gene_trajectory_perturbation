@@ -23,7 +23,7 @@ TCR-CD8-MHC I - Immune Response
 
 TCR-CD4-class II -Immune Response
 
-This script compares three activation modes:
+This script will compare three activation modes:
 
   1) convex:     GatedReLU(x) = max(a*x + b, x)
      
