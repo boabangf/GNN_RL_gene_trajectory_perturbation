@@ -29,7 +29,7 @@ This script compares three activation modes:
      
   2) nonconvex:  GatedReLU(x) = min(a*x + b, x)
      
-  3) multistage: convex -> nonconvex -> convex
+  3) multistage: convex -> nonconvex (To overcome local optima in  the antigentic Landscape Modeling)
 
 It trains the model (supervised), runs a PPO cytokine policy, evaluates
 MSE, RMSE, MAE, R², Pearson, and saves a CSV "gated_relu_comparison.csv
