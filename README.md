@@ -23,6 +23,18 @@ TCR-CD8-MHC I - Immune Response
 
 TCR-CD4-class II -Immune Response
 
+This script compares three activation modes:
+
+  1) convex:     GatedReLU(x) = max(a*x + b, x)
+     
+  2) nonconvex:  GatedReLU(x) = min(a*x + b, x)
+     
+  3) multistage: convex -> nonconvex -> convex
+
+It trains the model (supervised), runs a PPO cytokine policy, evaluates
+MSE, RMSE, MAE, R², Pearson, and saves a CSV "gated_relu_comparison.csv
+
+
 
 The model simulates peptide-MHC binding and T-cell recognition with a GAT-style encoder, followed by cytokine-RL (PPO)modulated immune response. ****(Under Construction)****
 
