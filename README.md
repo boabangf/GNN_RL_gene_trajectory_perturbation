@@ -21,7 +21,7 @@ Link to github for double bind submission: https://github.com/TNNLS-PeerReview/A
 TCR-CD8-MHC I - Immune Response
 
 
-TCR-CD4-class II -Immune Response
+TCR-CD4-MHC- II -Immune Response
 
 This script will compare three activation modes:
 
