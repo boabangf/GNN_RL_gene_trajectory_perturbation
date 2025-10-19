@@ -25,11 +25,11 @@ TCR-CD4-class II -Immune Response
 
 This script will compare three activation modes:
 
-  1) convex:     GatedReLU(x) = max(a*x + b, x)
+  1) convex:     GatedReLU(x) = max(a*x + b, x)  + nonconvex antigentic Landscape
      
-  2) nonconvex:  GatedReLU(x) = min(a*x + b, x)
+  2) nonconvex:  GatedReLU(x) = min(a*x + b, x) + nonconvex antigentic Landscape
      
-  3) multistage: convex -> nonconvex (To overcome local optima in  the antigentic Landscape Modeling)
+  3) multistage: convex -> nonconvex + nonconvex antigentic Landscape (To overcome local optima in  the antigentic Landscape Modeling)
 
 It trains the model (supervised), runs a PPO cytokine policy, evaluates
 MSE, RMSE, MAE, R², Pearson, and saves a CSV "gated_relu_comparison.csv
