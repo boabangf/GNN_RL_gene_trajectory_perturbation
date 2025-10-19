@@ -54,25 +54,6 @@ The model simulates peptide-MHC binding and T-cell recognition with a GAT-style 
 
 
 
-***CITATION**
-
-
-Heydari, Tiam, et al. "IQCELL: A platform for predicting the effect of gene perturbations on developmental trajectories using single-cell RNA-seq data." PLoS Computational Biology 18.2 (2022): e1009907.
-
-
-Fu, Zeyu, et al. "scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell Data." Biology 14.6 (2025): 679.
-
-
-Theodorakis, Nikolaos, et al. "Integrating machine learning with multi-omics technologies in geroscience: towards personalized medicine." Journal of Personalized Medicine 14.9 (2024): 931.
-
-Shahzad M, Tahir MA, Alhussein M, Mobin A, Shams Malick RA, Anwar MS. NeuPD-A Neural Network-Based Approach to Predict Antineoplastic Drug Response. Diagnostics (Basel). 2023 Jun 13;13(12):2043. doi: 10.3390/diagnostics13122043. PMID: 37370938; PMCID: PMC10297062.
-
-Tang, Xiangru, et al. "scAgents: A Multi-Agent Framework for Fully Autonomous End-to-End Single-Cell Perturbation Analysis." ICML 2025 Generative AI and Biology (GenBio) Workshop.
-
-Yu, T., Ekbote, C., Morozov, N., Fan, J., Frossard, P., d’Ascoli, S., & Brbić, M. (2025). Tissue reassembly with generative AI. bioRxiv, 2025-02.
-
-
-H. H. L. Tam, Y. M. Ng, M. A. A. Boolaky and H. F. Ong, "Predicting Drug Resistance in Cancer Cell Lines Using Machine Learning Approaches," 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Lisbon, Portugal, 2024
-
+***CITATION***
 
 Nilsson, J. B., et al. "Accurate prediction of HLA class II antigen presentation across all loci using tailored data acquisition and refined machine learning 9, eadj6367." Publisher: American Association for the Advancement of Science.
