@@ -18,10 +18,10 @@ Link to github for double bind submission: https://github.com/TNNLS-PeerReview/A
 
 *** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning(Modeling Antigentic Landscape)1st October 2025****
 
-TCR-CD8-MHC I - Immune Response
+TCR-CD8-MHC I - cytokines- Immune Response
 
 
-TCR-CD4-MHC- II -Immune Response
+TCR-CD4-MHC- II - cytokines - Immune Response
 
 This script will compare three activation modes:
 
@@ -29,9 +29,9 @@ This script will compare three activation modes:
      
   2) nonconvex:  GatedReLU(x) = min(a*x + b, x) + nonconvex antigentic Landscape
      
-  3) multistage: convex -> nonconvex + nonconvex antigentic Landscape (To overcome local optima in  the antigentic Landscape Modeling)
+  3) multistage: convex -> nonconvex + nonconvex  cytokines- antigentic Landscape (To overcome local optima in  the antigentic Landscape Modeling)
 
-It trains the model (supervised), runs a PPO cytokine policy, evaluates
+It trains the model (supervised), runs a PPO cytokine policy for the immune response, evaluates
 MSE, RMSE, MAE, R², Pearson, and saves a CSV "gated_relu_comparison.csv
 
 
