@@ -23,6 +23,8 @@ TCR-CD8-MHC I - cytokines- Immune Response
 
 TCR-CD4-MHC- II - cytokines - Immune Response
 
+peptide–TCR–MHC interactions is learned by IMMUNENET(graph attention model)
+
 This script will compare three activation modes:
 
   1) convex:     GatedReLU(x) = max(a*x + b, x)  + nonconvex antigentic Landscape
