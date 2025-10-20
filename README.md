@@ -27,11 +27,16 @@ peptide–TCR–MHC interactions is learned by IMMUNENET(graph attention model)
 
 This script will compare three activation modes:
 
-  1) convex:     GatedReLU(x) = max(a*x + b, x)  + nonconvex antigentic Landscape
+          - convex:    
+          - nonconvex: 
+          - adaptive:  
+
+
+  1) convex:     Pure ReLU  + nonconvex antigentic Landscape
      
-  2) nonconvex:  GatedReLU(x) = min(a*x + b, x) + nonconvex antigentic Landscape
+  2) nonconvex:  Pure Swish-like + nonconvex antigentic Landscape
      
-  3) multistage: convex -> nonconvex + nonconvex  cytokines- antigentic Landscape (To overcome local optima in  the antigentic Landscape Modeling)
+  3) multistage: Transition convex→nonconvex after switch_epoch + nonconvex  cytokines- antigentic Landscape (To overcome local optima in  the antigentic Landscape Modeling)
 
 It trains the model (supervised), runs a PPO cytokine policy for the immune response, evaluates
 MSE, RMSE, MAE, R², Pearson, and saves a CSV "gated_relu_comparison.csv
