@@ -27,10 +27,6 @@ peptide–TCR–MHC interactions is learned by IMMUNENET(graph attention model)
 
 This script will compare three activation modes:
 
-          - convex:    
-          - nonconvex: 
-          - adaptive:  
-
 
   1) convex:     Pure ReLU  + nonconvex antigentic Landscape
      
