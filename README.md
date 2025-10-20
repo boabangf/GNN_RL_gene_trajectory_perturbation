@@ -35,7 +35,7 @@ This script will compare three activation modes:
   3) multistage: Transition convex→nonconvex after switch_epoch + nonconvex  cytokines- antigentic Landscape (To overcome local optima in  the antigentic Landscape Modeling)
 
 It trains the model (supervised), runs a PPO cytokine policy for the immune response, evaluates
-MSE, RMSE, MAE, R², Pearson, and saves a CSV "gated_relu_comparison.csv
+MSE, RMSE, MAE, R², Pearson, and saves a CSV "relu_comparison.csv
 
 
 
