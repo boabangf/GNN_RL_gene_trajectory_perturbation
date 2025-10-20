@@ -60,3 +60,5 @@ The model simulates peptide-MHC binding and T-cell recognition with a GAT-style 
 ***CITATION***
 
 Nilsson, J. B., et al. "Accurate prediction of HLA class II antigen presentation across all loci using tailored data acquisition and refined machine learning 9, eadj6367." Publisher: American Association for the Advancement of Science.
+
+Memczak S, Izpisua Belmonte JC, Graepel T. Escaping ageing through Cell Annealing-a phenomenological model. Cell Res. 2025 
