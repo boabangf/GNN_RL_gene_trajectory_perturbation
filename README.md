@@ -31,6 +31,7 @@ ImmuneNet for binding and recognition (antigen II + CD4)
 
 PPO = cytokine behavior(in similar spirit as perturbation or knockout) -trigger immune response
 
+Create a nonconvex Waddington Landscape before proceeding to the following steps
 
 This script will compare three activation modes with model distillation:
 
