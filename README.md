@@ -8,7 +8,7 @@ UBC Seminar: 5th September 2025, Title of  Talk: **** Machine Learning Optimizat
 
 (https://arxiv.org/html/2510.13018v1)
 
-****Initial Paper Draft(To be submitted) - Enhanced Adaptive Stochastic Gradient Descent: Convergence Analysis and Its Application in Single-Cell Perturbation Analysis (To be submitted to IEEE Transactions on Neural Networks and Learning Systems)****
+****(To be submitted) - Enhanced Adaptive Stochastic Gradient Descent: Convergence Analysis and Its Application in Single-Cell Perturbation Analysis (To be submitted to IEEE Transactions on Neural Networks and Learning Systems)****
 
 
 https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/Enhanced_Adaptive_Stochastic_Gradient_Descent__Convergence_Analysis_and_Its_Application_in_Single_Cell_Perturbation_Analysis.pdf
