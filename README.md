@@ -32,7 +32,7 @@ This script will compare three activation modes with model distillation:
 
   1) convex:     Pure ReLU  + nonconvex antigentic Landscape with model distillation
      
-  2) nonconvex:  Pure Swish-like + nonconvex antigentic Landscapew ith model distillation
+  2) nonconvex:  Pure sigmoid + nonconvex antigentic Landscapew ith model distillation
      
   3) multistage: Transition convex→nonconvex after switch_epoch + nonconvex  cytokines- antigentic Landscape with model distillation (To overcome local optima in  the antigentic Landscape Modeling)
 
@@ -53,14 +53,6 @@ The model simulates peptide-MHC binding and T-cell recognition with a GAT-style 
 
 
 
-
-
-
-
-
-
 ***CITATION***
 
 Nilsson, J. B., et al. "Accurate prediction of HLA class II antigen presentation across all loci using tailored data acquisition and refined machine learning 9, eadj6367." Publisher: American Association for the Advancement of Science.
-
-Memczak S, Izpisua Belmonte JC, Graepel T. Escaping ageing through Cell Annealing-a phenomenological model. Cell Res. 2025 
