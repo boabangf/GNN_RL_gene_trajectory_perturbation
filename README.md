@@ -39,7 +39,7 @@ This script will compare three activation modes with model distillation:
      
   2) nonconvex:  Pure sigmoid + nonconvex antigentic Landscapew ith model distillation
      
-  3) multistage: Transition convex→nonconvex after switch_epoch + nonconvex  cytokines- antigentic Landscape with model distillation (To overcome local optima in  the antigentic Landscape Modeling)
+  3) multistage: Transition convex (use only 1st epoch)→nonconvex(i.e., rest of epochs) after switch_epoch + nonconvex  cytokines- antigentic Landscape with model distillation (To overcome local optima in  the antigentic Landscape Modeling)
 
 It trains the model (supervised), runs a PPO cytokine policy for the immune response, evaluates
 MSE, RMSE, MAE, R², Pearson, and saves a CSV "relu_comparison.csv
