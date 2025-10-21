@@ -29,7 +29,7 @@ peptide–TCR–MHC interactions is learned by IMMUNENET(graph attention model)
 
 ImmuneNet for binding and recognition (antigen II + CD4)
 
-PPO = cytokine behavior(in similar spirit as perturbation or knockout)
+PPO = cytokine behavior(in similar spirit as perturbation or knockout) -trigger immune response
 
 
 This script will compare three activation modes with model distillation:
