@@ -27,6 +27,11 @@ TCR-CD4-MHC- II - cytokines - Immune Response
 
 peptide–TCR–MHC interactions is learned by IMMUNENET(graph attention model)
 
+ImmuneNet = “Biological substrate” → encodes the static immune space
+
+PPO = “Controller” → optimizes dynamic immune modulation (cytokine behavior)
+
+
 This script will compare three activation modes with model distillation:
 
 
