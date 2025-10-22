@@ -39,11 +39,11 @@ Create a nonconvex Waddington Landscape (loss function) before proceeding to the
 This script will compare three activation modes with model distillation:
 
 
-  1) convex:     softplus(x)   + nonconvex antigentic Landscape with model distillation
+  1) convex:     nonconvex antigentic Landscape with model distillation
      
-  2) nonconvex:  Pure sigmoid + nonconvex antigentic Landscape with model distillation
+  2) nonconvex:  nonconvex antigentic Landscape with model distillation
      
-  3) **convex(nonconvex(x))** + cytokines- antigentic Landscape with model distillation (Reprogramming)
+  3) **convex(nonconvex(x)** + cytokines- antigentic Landscape with model distillation (Reprogramming)
 
 It trains the model (supervised), runs a PPO cytokine policy for the immune response, evaluates
 MSE, RMSE, MAE, R², Pearson, and saves a CSV "relu_comparison.csv
