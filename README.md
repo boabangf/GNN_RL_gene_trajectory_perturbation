@@ -34,7 +34,7 @@ ImmuneNet for binding and recognition (antigen II + CD4)
 
 PPO = cytokine behavior(in similar spirit as perturbation or knockout) -trigger immune response
 
-Create a nonconvex Waddington Landscape before proceeding to the following steps
+Create a nonconvex Waddington Landscape (loss function) before proceeding to the following steps
 
 This script will compare three activation modes with model distillation:
 
@@ -43,7 +43,7 @@ This script will compare three activation modes with model distillation:
      
   2) nonconvex:  Pure sigmoid + nonconvex antigentic Landscape with model distillation
      
-  3) multistage: Transition nonconvex first followed by convex after switch_epoch + nonconvex  cytokines- antigentic Landscape with model distillation (Reprogramming)
+  3) multistage: Transition convex first followed by nonconvex after switch_epoch + nonconvex  cytokines- antigentic Landscape with model distillation (Reprogramming)
 
 It trains the model (supervised), runs a PPO cytokine policy for the immune response, evaluates
 MSE, RMSE, MAE, R², Pearson, and saves a CSV "relu_comparison.csv
