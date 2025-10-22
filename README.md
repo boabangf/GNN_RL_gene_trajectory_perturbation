@@ -36,7 +36,7 @@ PPO = cytokine behavior(in similar spirit as perturbation or knockout) -trigger 
 
 Create a nonconvex Waddington Landscape (loss function) before proceeding to the following steps
 
-This script will compare three activation modes with model distillation:
+This script will compare three model distillation modes  :
 
 
   1) convex:     nonconvex antigentic Landscape with model distillation
