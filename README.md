@@ -38,7 +38,7 @@ Create a nonconvex Waddington Landscape before proceeding to the following steps
 This script will compare three activation modes with model distillation:
 
 
-  1) convex:     Pure ReLU  + nonconvex antigentic Landscape with model distillation
+  1) convex:     softplus(x)   + nonconvex antigentic Landscape with model distillation
      
   2) nonconvex:  Pure sigmoid + nonconvex antigentic Landscapew ith model distillation
      
