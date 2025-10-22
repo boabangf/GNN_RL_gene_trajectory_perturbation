@@ -21,7 +21,7 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-
 Link to github for double bind submission: https://github.com/TNNLS-PeerReview/ASGD-ADAM/tree/main
 
 
-*** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning(Modeling Antigentic Landscape)1st October 2025****
+*** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning(Modeling Antigentic Landscape)1st October 2025(Under Construction)****
 
 TCR-CD8-MHC I - cytokines- Immune Response
 
