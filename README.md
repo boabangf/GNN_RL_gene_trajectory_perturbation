@@ -23,6 +23,9 @@ Link to github for double bind submission: https://github.com/TNNLS-PeerReview/A
 
 *** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning(Modeling Antigentic Landscape)1st October 2025(Under Construction)****
 
+
+**Paper Draft Title:** Epitopea: A Convex–Nonconvex Framework for Learning the Class II Antigenic Landscape with Cytokine Policy Reinforcement-****(Under Construction)****
+
 Cascading activations were found to be redundant and did not yield performance improvements. Therefore, our focus shifts toward model compression and mitigating overfitting through the use of cascaded model compression techniques.
 
 TCR-CD8-MHC I - cytokines- Immune Response
@@ -45,14 +48,14 @@ This script will compare three model distillation modes  :
      
   2) nonconvex:  nonconvex antigentic Landscape with model distillation
      
-  3) **convex(nonconvex(x)** + cytokines- antigentic Landscape with model distillation (Reprogramming)
+  3) **convex/nonconvex** + cytokines- antigentic Landscape with model distillation (Reprogramming)
 
 It trains the model (supervised), runs a PPO cytokine policy for the immune response, evaluates
 MSE, RMSE, MAE, R², Pearson, and saves a CSV "relu_comparison.csv
 
 
 
-The model simulates peptide-MHC binding and T-cell recognition with a GAT-style encoder, followed by cytokine-RL (PPO)modulated immune response. ****(Under Construction)****
+The model simulates peptide-MHC binding and T-cell recognition with a GAT-style encoder, followed by cytokine-RL (PPO)modulated immune response. 
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0183722f-82eb-4978-821f-7df361971b77" />
