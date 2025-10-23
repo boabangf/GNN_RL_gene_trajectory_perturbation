@@ -23,6 +23,8 @@ Link to github for double bind submission: https://github.com/TNNLS-PeerReview/A
 
 *** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning(Modeling Antigentic Landscape)1st October 2025(Under Construction)****
 
+Cascading activations were found to be redundant and did not yield performance improvements. Therefore, our focus shifts toward model compression and mitigating overfitting through the use of cascaded model compression techniques.
+
 TCR-CD8-MHC I - cytokines- Immune Response
 
 
