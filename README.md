@@ -26,7 +26,7 @@ Link to github for double bind submission: https://github.com/TNNLS-PeerReview/A
 
 **Paper Draft Title:** Epitopea: A Convex–Nonconvex Framework for Learning the Class II Antigenic Landscape with Cytokine Policy Reinforcement-****(Under Construction)****
 
-Cascading activations were found to be redundant and did not yield performance improvements. Therefore, our focus shifts toward model compression and mitigating overfitting through the use of cascaded model compression techniques.
+Cascading activations were found to be redundant and did not yield performance improvements. Therefore, our focus shifts toward model compression and mitigating overfitting through the use of cascaded model compression techniques. **Choose either a convex or a nonconvex activation function—do not combine or alternate between them in staged training**.
 
 TCR-CD8-MHC I - cytokines- Immune Response
 
