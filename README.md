@@ -32,7 +32,7 @@ Cascading activations were found to be redundant and did not yield performance i
 
 
 
-**Current Research Directions-Ericsson**
+**Current Research Directions from Ericsson to improve the antigen immune recognition and response system**
 
 **Quantum Representation of Gene/Protein Expression States(Hamiltonian Formulation of the Gene/Protein Expression Optimization Problem)**
 
