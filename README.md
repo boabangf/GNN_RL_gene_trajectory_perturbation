@@ -28,7 +28,7 @@ Link to github for double bind submission: https://github.com/TNNLS-PeerReview/A
 
 https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/MHC-II%20Recognition%20and%20Response/Epitopea.pdf
 
-Cascading activations were found to be redundant and did not yield performance improvements. Therefore, our focus shifts toward model compression and mitigating overfitting through the use of cascaded model compression techniques. **Choose either a convex or a nonconvex activation function—do not combine or alternate between them in staged training**.
+Cascading activations were found to be redundant and did not yield performance improvements. Therefore, our focus shifts toward model compression and mitigating overfitting through the use of cascaded model compression techniques. **Choose either a convex or a nonconvex activation function, do not combine or alternate between them in staged training**.
 
 
 
