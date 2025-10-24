@@ -46,3 +46,4 @@ Hamiltonian-based biological modeling	“Quantum Hamiltonians for Biological Ene
 
 Quantum control for biochemical networks	“Quantum-inspired Control in Gene Regulatory Systems,” arXiv:2405.01987
 
+https://medium.com/quantum-mysteries/quantum-computational-strategies-for-optimizing-gene-regulatory-networks-in-synthetic-biology-d002543d5966
