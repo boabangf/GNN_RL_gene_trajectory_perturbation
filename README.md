@@ -32,7 +32,7 @@ Cascading activations were found to be redundant and did not yield performance i
 
 
 
-**Current Research Directions**
+**Current Research Directions-Ericsson**
 
 Quantum RL for molecular design	“Variational Quantum Reinforcement Learning for Drug Discovery,” arXiv:2311.01234
 
