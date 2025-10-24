@@ -30,42 +30,19 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/MHC-II
 
 Cascading activations were found to be redundant and did not yield performance improvements. Therefore, our focus shifts toward model compression and mitigating overfitting through the use of cascaded model compression techniques. **Choose either a convex or a nonconvex activation function—do not combine or alternate between them in staged training**.
 
-TCR-CD8-MHC I - cytokines- Immune Response
 
 
-TCR-CD4-MHC- II - cytokines - Immune Response
+**Current Research Directions**
 
-peptide–TCR–MHC interactions is learned by IMMUNENET(graph attention model)
-
-ImmuneNet for binding and recognition (antigen II + CD4)
-
-PPO = cytokine behavior(in similar spirit as perturbation or knockout) -trigger immune response
-
-Create a nonconvex Waddington Landscape (loss function) before proceeding to the following steps
-
-This script will compare three model distillation modes  :
+Quantum RL for molecular design	“Variational Quantum Reinforcement Learning for Drug Discovery,” arXiv:2311.01234
 
 
-  1) convex:     nonconvex antigentic Landscape with model distillation
-     
-  2) nonconvex:  nonconvex antigentic Landscape with model distillation
-     
-  3) **convex/nonconvex** + cytokines- antigentic Landscape with model distillation (Reprogramming)
+Quantum variational circuits for protein folding	“Quantum Machine Learning for Protein Structure Prediction,” npj Quantum Inf. 2023
 
-It trains the model (supervised), runs a PPO cytokine policy for the immune response, evaluates
-MSE, RMSE, MAE, R², Pearson, and saves a CSV "relu_comparison.csv
+Hamiltonian-based biological modeling	“Quantum Hamiltonians for Biological Energy Landscapes,” Phys. Rev. E, 2024
 
 
-
-The model simulates peptide-MHC binding and T-cell recognition with a GAT-style encoder, followed by cytokine-RL (PPO)modulated immune response. 
-
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0183722f-82eb-4978-821f-7df361971b77" />
-
-
-****Link to sample dataset: https://www.iedb.org/****
-
-
+Quantum control for biochemical networks	“Quantum-inspired Control in Gene Regulatory Systems,” arXiv:2405.01987
 
 
 
