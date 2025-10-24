@@ -44,8 +44,3 @@ Hamiltonian-based biological modeling	“Quantum Hamiltonians for Biological Ene
 
 Quantum control for biochemical networks	“Quantum-inspired Control in Gene Regulatory Systems,” arXiv:2405.01987
 
-
-
-***CITATION***
-
-Nilsson, J. B., et al. "Accurate prediction of HLA class II antigen presentation across all loci using tailored data acquisition and refined machine learning 9, eadj6367." Publisher: American Association for the Advancement of Science.
