@@ -24,7 +24,7 @@ Link to github for double bind submission: https://github.com/TNNLS-PeerReview/A
 *** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning(Modeling Antigentic Landscape)1st October 2025(Under Construction)****
 
 
-**Paper Draft Title:** Epitopea-QI: A Quantum–Inspired Convex–Nonconvex Framework for Learning the Class II Antigenic Landscape with Cytokine Policy Reinforcement-****(Under Construction)****
+**Paper Draft Title:** Epitopea: A Convex–Nonconvex Reinforcement Framework for Dynamic Cytokine Control in MHC II Antigenic Landscapes-****(Under Construction)****
 
 https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/MHC-II%20Recognition%20and%20Response/Epitopea.pdf
 
