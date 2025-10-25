@@ -11,7 +11,7 @@ UBC Seminar: 5th September 2025, Title of  Talk: **** Machine Learning Optimizat
 
 ***Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis - To be Submitted to   IEEE Transactions on Computational Biology and Bioinformatics***
 
-*** To be included in the evaluation section:  Epitopea: A Distilled Convex–Nonconvex Reinforcement Framework for Dynamic Cytokine Control in Peptide-MHC II Antigenic Landscapes- Include in the evalution section***
+***To be included in the evaluation section:  Epitopea: A Distilled Convex–Nonconvex Reinforcement Framework for Dynamic Cytokine Control in Peptide-MHC II Antigenic Landscapes***
 
 (https://arxiv.org/html/2510.13018v1)
 
