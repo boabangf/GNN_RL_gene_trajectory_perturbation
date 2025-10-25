@@ -11,6 +11,8 @@ UBC Seminar: 5th September 2025, Title of  Talk: **** Machine Learning Optimizat
 
 ***Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis - To be Submitted to   IEEE Transactions on Computational Biology and Bioinformatics***
 
+*** To be included in the evaluation section:  Epitopea: A Distilled Convex–Nonconvex Reinforcement Framework for Dynamic Cytokine Control in Peptide-MHC II Antigenic Landscapes- Include in the evalution section***
+
 (https://arxiv.org/html/2510.13018v1)
 
 ****(To be submitted) - Enhanced Adaptive Stochastic Gradient Descent: Convergence Analysis and Its Application in Single-Cell Perturbation Analysis (To be submitted to IEEE Transactions on Neural Networks and Learning Systems)****
@@ -21,14 +23,4 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-
 Link to github for double bind submission: https://github.com/TNNLS-PeerReview/ASGD-ADAM/tree/main
 
 
-*** New Research Direction from Epitopea*** ****Class II antigen immune system recognition and response using machine learning(Modeling Antigentic Landscape)1st October 2025(Under Construction)****
 
-
-**Paper Draft Title:** Epitopea: A Distilled Convex–Nonconvex Reinforcement Framework for Dynamic Cytokine Control in Peptide-MHC II Antigenic Landscapes-****(Under Construction)****
-
-
-
-Cascading activations were found to be redundant and did not yield performance improvements. Therefore, our focus shifts toward model compression and mitigating overfitting through the use of cascaded model compression techniques. **Choose either a convex or a nonconvex activation function, do not combine or alternate between them in staged training**.
-
-
-https://medium.com/quantum-mysteries/quantum-computational-strategies-for-optimizing-gene-regulatory-networks-in-synthetic-biology-d002543d5966
