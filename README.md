@@ -23,4 +23,8 @@ https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-
 Link to github for double bind submission: https://github.com/TNNLS-PeerReview/ASGD-ADAM/tree/main
 
 
+Reference
+Xing, Hanwen, and Christopher Yau. "GPerturb: Gaussian process modelling of single-cell perturbation data." Nature Communications 16.1 (2025): 5423.
+
+
 
