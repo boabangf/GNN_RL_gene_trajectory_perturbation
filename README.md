@@ -1,3 +1,5 @@
+Projected Name: **StemTwin Analytics**
+
 **Project Vision:** Digital Twin for Stem Cell Differentiation and Therapeutic Reprogramming
 
 
