@@ -2,7 +2,7 @@ Projected Name: **StemTwin Analytics**
 
 **Project Vision:** Digital Twin for Stem Cell Differentiation and Therapeutic Reprogramming
 
-I will be attending the Omics Codeathon 2026: https://docs.google.com/forms/d/e/1FAIpQLSfmWvIxuE7JR4T7kwfWA_HIt0GUQ_czqVlK2zeeio5tzBmmvw/viewform?pli=1
+I will be attending the Omics Codeathon April  2026: https://docs.google.com/forms/d/e/1FAIpQLSfmWvIxuE7JR4T7kwfWA_HIt0GUQ_czqVlK2zeeio5tzBmmvw/viewform?pli=1
 
  **Goal:** AI for understanding developmental pathways
 
