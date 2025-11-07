@@ -4,6 +4,10 @@ Projected Name: **StemTwin Analytics**
 
 I will be attending the Omics Codeathon April  2026: https://docs.google.com/forms/d/e/1FAIpQLSfmWvIxuE7JR4T7kwfWA_HIt0GUQ_czqVlK2zeeio5tzBmmvw/viewform?pli=1
 
+
+http://www.perturbase.cn/
+
+
  **Goal:** AI for understanding developmental pathways
 
 **Our mission** is to accelerate recovery from cancer, enable next-generation vaccine creation, and combat autoimmune diseases through advanced cellular reprogramming integrated with a digital twin of wet-lab stem cell differentiation experiments. This digital twin will replicate the complex molecular and epigenetic dynamics of stem cell differentiation in silico, allowing bioinformaticians and experimental biologists to simulate, optimize, and refine cellular behavior in real time. 
