@@ -13,6 +13,9 @@ Insilico Perturbation data -  Model free Reinforcement Learning
 http://www.perturbase.cn/
 
 
+Heydari, Tiam, et al. "IQCELL: A platform for predicting the effect of gene perturbations on developmental trajectories using single-cell RNA-seq data." PLoS Computational Biology 18.2 (2022): e1009907. (In-silico Perturbation)
+
+
 
  **Goal:** AI for understanding developmental pathways
 
