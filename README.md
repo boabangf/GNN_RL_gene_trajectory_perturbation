@@ -5,7 +5,7 @@ Projected Name: **StemTwin Analytics**
 I will be attending the Omics Codeathon April  2026: https://docs.google.com/forms/d/e/1FAIpQLSfmWvIxuE7JR4T7kwfWA_HIt0GUQ_czqVlK2zeeio5tzBmmvw/viewform?pli=1
 
 
-**We will employ a model-free reinforcement learning approach on in silico perturbation data, subsequently validated through experimental perturbations**.
+**We will employ a model-free reinforcement learning approach on in silico perturbation data, subsequently validated through experimental perturbations for out-of-sample scenario Prediction**
 
 http://www.perturbase.cn/
 
