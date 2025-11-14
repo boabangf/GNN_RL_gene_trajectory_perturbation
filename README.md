@@ -7,6 +7,9 @@ I will be attending the Omics Codeathon April  2026: https://docs.google.com/for
 
 **We will employ a model-free reinforcement learning approach on in silico perturbation data, subsequently validated through experimental perturbations for out-of-sample scenario Prediction**
 
+
+  **Separate Experimental Perturbation Training and  Validation and Separate Insilico Perturbation Training**
+
 http://www.perturbase.cn/
 
 
