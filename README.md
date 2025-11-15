@@ -10,6 +10,9 @@ I will be attending the Omics Codeathon April  2026: https://docs.google.com/for
 
   **Separate Experimental Perturbation Training and  Validation and Separate Insilico Perturbation Training**
 
+**CONTROL cells = top_oligo with _0_ (dose zero)**
+
+**PERTURBED cells = all other doses**
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139944
 
