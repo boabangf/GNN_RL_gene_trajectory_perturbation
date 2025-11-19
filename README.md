@@ -9,6 +9,8 @@ I will be attending the Omics Codeathon April  2026: https://docs.google.com/for
 
 Code:  https://colab.research.google.com/drive/1D7VP5OFkUqCkpxcR4htR7ysPvijmyx3I?usp=sharing
 
+Data: https://drive.google.com/drive/folders/1AAI4KU9G-UHoKo72Ne6iGAaCgFPADIW3?usp=drive_link
+
 
 
 **Unperturb data (Control Sample) and Perturb data with CRISPRKO**
