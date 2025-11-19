@@ -7,6 +7,10 @@ I will be attending the Omics Codeathon April  2026: https://docs.google.com/for
 
 **We will employ both model-based and model-free reinforcement learning approaches on perturbation datasets, followed by validation through two independent pipelines: Experimental Perturbation Training/Validation and In-silico Perturbation Training/Validation, respectively.**
 
+https://colab.research.google.com/drive/1D7VP5OFkUqCkpxcR4htR7ysPvijmyx3I?usp=sharing
+
+
+
 **Unperturb data (Control Sample) and Perturb data with CRISPRKO**
 
 **https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134139**
