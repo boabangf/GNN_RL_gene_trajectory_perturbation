@@ -1,4 +1,7 @@
 Projected Name: **StemTwin Analytics**
+
+Sponsors
+
 <img width="1771" height="427" alt="image" src="https://github.com/user-attachments/assets/c0a64fac-a685-42e6-8b15-f341fee5bdfd" />
 
 **Project Vision:** Digital Twin for Stem Cell Differentiation and Therapeutic Reprogramming
