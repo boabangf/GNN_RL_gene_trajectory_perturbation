@@ -45,7 +45,6 @@ UBC Seminar: 5th September 2025, Title of  Talk: **** Machine Learning Optimizat
 
 ***Escaping Local Optima in the Waddington Landscape: A Multi-Stage TRPO–PPO  Approach for Single-Cell Perturbation Analysis - To be Submitted to   IEEE Transactions on Computational Biology and Bioinformatics***
 
-***To be included in the evaluation sections:  Epitopea: A Distilled Convex–Nonconvex Reinforcement Framework for In-silico Dynamic Cytokine Control in Peptide-MHC II Antigenic Landscapes***
 
 (https://arxiv.org/html/2510.13018v1)
 
@@ -55,7 +54,6 @@ UBC Seminar: 5th September 2025, Title of  Talk: **** Machine Learning Optimizat
 https://github.com/boabangf/GNN_RL_gene_trajectory_perturbation/blob/main/Multi-Step%20Differentiation%20Experiment/Enhanced_Adaptive_Stochastic_Gradient_Descent__Convergence_Analysis_and_Its_Application_in_Single_Cell_Perturbation_Analysis.pdf
 
 Link to github for double bind submission: https://github.com/TNNLS-PeerReview/ASGD-ADAM/tree/main
-
 
 Reference
 
