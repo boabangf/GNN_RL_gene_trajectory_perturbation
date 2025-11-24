@@ -27,8 +27,11 @@ Data: https://drive.google.com/drive/folders/1AAI4KU9G-UHoKo72Ne6iGAaCgFPADIW3?u
 **https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126310**
 
 
-**Drug treatment**
+**Drug treatment in Mouse**
 
+Anti–PD-1 → blocks PD-1/PD-L1 suppressive axis
+
+Anti–CTLA-4 → blocks regulatory checkpoints & enhances T cell priming
 
 **https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE119352**
 
