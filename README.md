@@ -39,7 +39,7 @@ Link to Code: https://colab.research.google.com/drive/1UoPEKODPjZeQ2BuGoC5iFKkUq
 
 
 
-**CRISPRi/CRISPRn **
+**CRISPR interference (CRISPRi)/CRISPR nuclease  (CRISPRn)**
 
 **https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165291**
 
