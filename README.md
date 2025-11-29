@@ -39,6 +39,10 @@ Link to Code: https://colab.research.google.com/drive/1UoPEKODPjZeQ2BuGoC5iFKkUq
 
 
 
+**CRISPRi **
+
+**https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165291**
+
 
 
 http://www.perturbase.cn/
