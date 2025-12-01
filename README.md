@@ -8,8 +8,65 @@ Sponsors
 
 I will be attending the Omics Codeathon April  2026: https://docs.google.com/forms/d/e/1FAIpQLSfmWvIxuE7JR4T7kwfWA_HIt0GUQ_czqVlK2zeeio5tzBmmvw/viewform?pli=1
 
+# ============================================================
+# Unified CTRL + PTPN2 RL (Model-based + Model-free)
 
-**We  employed both model-based and model-free reinforcement learning approaches on perturbation datasets, followed by validation through two independent pipelines: Experimental Perturbation Training/Validation and In-silico Perturbation Training/Validation, respectively. A DTW is used to check the similarities between the trajectories produced by both systems**
+# Omics Codeathon, Boabang Francis
+
+# Encoder:
+
+#   - Align genes (CTRL, PTPN2)
+
+#   - True 80/20 split on PTPN2 BEFORE preprocessing
+
+#   - HVG on PTPN2-TRAIN only → applied to PTPN2-TEST + CTRL
+
+#   - Gene Autoencoder (PTPN2-TRAIN only)
+
+#   - PCA (PTPN2-TRAIN only, applied to all)
+
+#   - Simple inference-only GAT on joint PCA space
+
+# RL:
+
+# PTPN2: model-based RL with world model f_θ, perturb once at t=0
+
+# CTRL: model-free RL, multi-step perturbation (additive updates)
+
+##Our framework goes beyond IQCELL-style paper by:
+
+#: Heydari, Tiam, et al. "IQCELL: A platform for predicting the effect of gene perturbations 
+
+#on developmental trajectories using single-cell RNA-seq data." PLoS Computational Biology 18.2 (2022): e1009907.
+
+#Performing direct quantitative matching (MSE, DTW, Wasserstein, Pearson)
+
+#Comparing simulated continuous trajectories vs scRNA-seq perturbation
+
+
+#Using model-based + model-free RL, not Boolean rules
+
+# Evaluation:
+
+#   - Single-dim metrics ( MSE, RMSE, MAE, R2, Pearson, AUPRC)
+
+#   - Distance to REAL PTPN2 TRAIN mean
+
+#   - Pseudotime alignment (mapped to PTPN2 pseudotime)
+
+#   - IQCELL-style:
+
+#       * Full H-step trajectories (mean simulated vs experimental)
+
+#       * DTW per latent dimension
+
+#       * 1D Wasserstein (OT) per dimension
+
+#       * DTW heatmap (CTRL vs PTPN2)
+
+#       * Combined similarity table (CSV)
+
+# ============================================================
 
 
 **Unperturb data (Control Sample) and Perturb data with CRISPRKO (Single Perturbation)**
