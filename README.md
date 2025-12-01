@@ -8,65 +8,63 @@ Sponsors
 
 I will be attending the Omics Codeathon April  2026: https://docs.google.com/forms/d/e/1FAIpQLSfmWvIxuE7JR4T7kwfWA_HIt0GUQ_czqVlK2zeeio5tzBmmvw/viewform?pli=1
 
-# ============================================================
-# Unified CTRL + PTPN2 RL (Model-based + Model-free)
+ Unified CTRL + PTPN2 RL (Model-based + Model-free)
 
-# Omics Codeathon, Boabang Francis
+ Omics Codeathon, Boabang Francis
 
-# Encoder:
+ Encoder:
+ 
+    - Align genes (CTRL, PTPN2)
 
-#   - Align genes (CTRL, PTPN2)
+   - True 80/20 split on PTPN2 BEFORE preprocessing
 
-#   - True 80/20 split on PTPN2 BEFORE preprocessing
+   - HVG on PTPN2-TRAIN only → applied to PTPN2-TEST + CTRL
 
-#   - HVG on PTPN2-TRAIN only → applied to PTPN2-TEST + CTRL
+   - Gene Autoencoder (PTPN2-TRAIN only)
 
-#   - Gene Autoencoder (PTPN2-TRAIN only)
+   - PCA (PTPN2-TRAIN only, applied to all)
 
-#   - PCA (PTPN2-TRAIN only, applied to all)
+   - Simple inference-only GAT on joint PCA space
 
-#   - Simple inference-only GAT on joint PCA space
+ RL:
 
-# RL:
+ PTPN2: model-based RL with world model f_θ, perturb once at t=0
 
-# PTPN2: model-based RL with world model f_θ, perturb once at t=0
+ CTRL: model-free RL, multi-step perturbation (additive updates)
 
-# CTRL: model-free RL, multi-step perturbation (additive updates)
+Our framework goes beyond IQCELL-style paper by:
 
-##Our framework goes beyond IQCELL-style paper by:
+ Heydari, Tiam, et al. "IQCELL: A platform for predicting the effect of gene perturbations 
 
-#: Heydari, Tiam, et al. "IQCELL: A platform for predicting the effect of gene perturbations 
+on developmental trajectories using single-cell RNA-seq data." PLoS Computational Biology 18.2 (2022): e1009907.
 
-#on developmental trajectories using single-cell RNA-seq data." PLoS Computational Biology 18.2 (2022): e1009907.
+Performing direct quantitative matching (MSE, DTW, Wasserstein, Pearson)
 
-#Performing direct quantitative matching (MSE, DTW, Wasserstein, Pearson)
-
-#Comparing simulated continuous trajectories vs scRNA-seq perturbation
+Comparing simulated continuous trajectories vs scRNA-seq perturbation
 
 
-#Using model-based + model-free RL, not Boolean rules
+Using model-based + model-free RL, not Boolean rules
 
-# Evaluation:
+ Evaluation:
 
-#   - Single-dim metrics ( MSE, RMSE, MAE, R2, Pearson, AUPRC)
+   - Single-dim metrics ( MSE, RMSE, MAE, R2, Pearson, AUPRC
+   - 
+   - Distance to REAL PTPN2 TRAIN mean
 
-#   - Distance to REAL PTPN2 TRAIN mean
+   - Pseudotime alignment (mapped to PTPN2 pseudotime)
 
-#   - Pseudotime alignment (mapped to PTPN2 pseudotime)
+   - IQCELL-style:
 
-#   - IQCELL-style:
+       * Full H-step trajectories (mean simulated vs experimental)
 
-#       * Full H-step trajectories (mean simulated vs experimental)
+       * DTW per latent dimension
 
-#       * DTW per latent dimension
+       * 1D Wasserstein (OT) per dimension
 
-#       * 1D Wasserstein (OT) per dimension
+       * DTW heatmap (CTRL vs PTPN2)
 
-#       * DTW heatmap (CTRL vs PTPN2)
+       * Combined similarity table (CSV)
 
-#       * Combined similarity table (CSV)
-
-# ============================================================
 
 
 **Unperturb data (Control Sample) and Perturb data with CRISPRKO (Single Perturbation)**
