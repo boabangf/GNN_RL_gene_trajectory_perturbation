@@ -38,7 +38,7 @@ Link to Code: https://colab.research.google.com/drive/1UoPEKODPjZeQ2BuGoC5iFKkUq
 http://www.perturbase.cn/
 
 
-**OUT_SAMPLE_EVALUATION**
+**OUT_SAMPLE_EVALUATION(Control Sample)**
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196972
 
