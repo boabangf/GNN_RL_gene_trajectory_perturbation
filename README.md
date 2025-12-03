@@ -40,8 +40,6 @@ http://www.perturbase.cn/
 
 **OUT_SAMPLE_EVALUATION**
 
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122662
-
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196972
 
 
