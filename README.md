@@ -42,6 +42,8 @@ http://www.perturbase.cn/
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196972
 
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122662
+
 
 
 
