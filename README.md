@@ -35,10 +35,14 @@ Link to Code: https://colab.research.google.com/drive/1UoPEKODPjZeQ2BuGoC5iFKkUq
 **https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE119352**
 
 
-
-
-
 http://www.perturbase.cn/
+
+
+**OUT_SAMPLE_EVALUATION**
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122662
+
+
 
 
 Heydari, Tiam, et al. "IQCELL: A platform for predicting the effect of gene perturbations on developmental trajectories using single-cell RNA-seq data." PLoS Computational Biology 18.2 (2022): e1009907. (In-silico Perturbation)
