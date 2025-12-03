@@ -22,6 +22,12 @@ Data: https://drive.google.com/drive/folders/1AAI4KU9G-UHoKo72Ne6iGAaCgFPADIW3?u
 
 **https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126310**
 
+**OUT_SAMPLE_EVALUATION(Control Sample)**
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196972
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122662
+
 
 **Drug treatment in Mouse(Double Perturbation)**
 
@@ -38,11 +44,7 @@ Link to Code: https://colab.research.google.com/drive/1UoPEKODPjZeQ2BuGoC5iFKkUq
 http://www.perturbase.cn/
 
 
-**OUT_SAMPLE_EVALUATION(Control Sample)**
 
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196972
-
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122662
 
 
 
