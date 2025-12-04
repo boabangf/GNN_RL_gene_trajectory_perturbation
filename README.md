@@ -24,6 +24,9 @@ Data: https://drive.google.com/drive/folders/1AAI4KU9G-UHoKo72Ne6iGAaCgFPADIW3?u
 
 **OUT_SAMPLE_EVALUATION(Control Sample)**
 
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157977
+
+
 **Long Sequence**
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196972
