@@ -22,10 +22,7 @@ Data: https://drive.google.com/drive/folders/1AAI4KU9G-UHoKo72Ne6iGAaCgFPADIW3?u
 
 **https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126310**
 
-**OUT_SAMPLE_EVALUATION(Control Sample)**
-
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157977
-
+**OUT_SAMPLE_EVALUATION(Control Sample-Similar Cell type)**
 
 **Long Sequence**
 
