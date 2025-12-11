@@ -89,3 +89,5 @@ Zhiting Wei, Duanmiao Si, Bin Duan, Yicheng Gao, Qian Yu, Zhenbo Zhang, Ling Guo
 
 Kamimoto, Kenji, et al. "Dissecting cell identity via network inference and in silico gene perturbation." Nature 614.7949 (2023): 742-751.
 
+Balmas, E., Ratto, M.L., Snijders, K.E. et al. Single cell transcriptional perturbome in pluripotent stem cell models. Mol Syst Biol (2025). https://doi.org/10.1038/s44320-025-00172-8
+
