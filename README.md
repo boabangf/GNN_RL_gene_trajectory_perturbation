@@ -9,53 +9,9 @@ Sponsors
 I will be attending the Omics Codeathon April  2026: https://docs.google.com/forms/d/e/1FAIpQLSfmWvIxuE7JR4T7kwfWA_HIt0GUQ_czqVlK2zeeio5tzBmmvw/viewform?pli=1
 
 
-**Unperturb data (Control Sample) and Perturb data with CRISPRKO (Single Perturbation)**
+**Unperturb data (Control Sample) and Perturb data
 
-Code: https://colab.research.google.com/drive/1pJJpmq2cz5iY0ctqEYmCx7U8p4kUNRa-?usp=sharing
-
-Data: https://drive.google.com/drive/folders/1AAI4KU9G-UHoKo72Ne6iGAaCgFPADIW3?usp=drive_link
-
-**https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134139**
-
-
-**https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156478**
-
-**https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126310**
-
-**OUT_SAMPLE_EVALUATION(Control Sample-Similar Cell type)**
-
-**Long Sequence**
-
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196972
-
-**Short Sequence-Drug development**
-
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122662
-
-
-**Drug treatment in Mouse(Double Perturbation)**
-
-Anti–PD-1 → blocks PD-1/PD-L1 suppressive axis
-
-Anti–CTLA-4 → blocks regulatory checkpoints & enhances T cell priming
-
-Link to Code: https://colab.research.google.com/drive/1UoPEKODPjZeQ2BuGoC5iFKkUqwlj3bkm?usp=sharing
-
-
-**https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE119352**
-
-
-http://www.perturbase.cn/
-
-
-
-
-
-
-
-Heydari, Tiam, et al. "IQCELL: A platform for predicting the effect of gene perturbations on developmental trajectories using single-cell RNA-seq data." PLoS Computational Biology 18.2 (2022): e1009907. (In-silico Perturbation)
-
-
+https://zenodo.org/records/15731884
 
  **Goal:** AI for understanding developmental pathways
 
