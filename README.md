@@ -15,6 +15,8 @@ https://zenodo.org/records/15731884
 
 https://virtualcellchallenge.org/datasets
 
+https://github.com/ArcInstitute/arc-virtual-cell-atlas/blob/main/scBaseCount/tutorial-py.ipynb
+
  **Goal:** AI for understanding developmental pathways
 
 **Our mission** is to accelerate recovery from cancer, enable next-generation vaccine creation, and combat autoimmune diseases through advanced cellular reprogramming integrated with a digital twin of wet-lab stem cell differentiation experiments. This digital twin will replicate the complex molecular and epigenetic dynamics of stem cell differentiation in silico, allowing bioinformaticians and experimental biologists to simulate, optimize, and refine cellular behavior in real time. 
