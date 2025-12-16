@@ -15,7 +15,7 @@ https://zenodo.org/records/15731884
 
 https://virtualcellchallenge.org/datasets
 
-DMSO Transcription-Factor control condition(zero concentration= control sample)
+DMSO Transcription-Factor control condition(zero concentration= control sample) - No active drug perturbation
 
 https://github.com/ArcInstitute/arc-virtual-cell-atlas/blob/main/scBaseCount/tutorial-py.ipynb
 
