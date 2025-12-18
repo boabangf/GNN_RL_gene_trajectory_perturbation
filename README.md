@@ -15,6 +15,8 @@ https://zenodo.org/records/15731884
 
 https://virtualcellchallenge.org/datasets
 
+scBaseCount dataset contains observational single-cell RNA-seq data but not genetic perturbation dataset
+
 DMSO Transcription-Factor control condition(zero concentration= control sample) - No active drug perturbation
 
 Coyle, Brian et al. “Variational Quantum Cloning: Improving Practicality for Quantum Cryptanalysis.” ArXiv abs/2012.11424 (2020): n. pag.
