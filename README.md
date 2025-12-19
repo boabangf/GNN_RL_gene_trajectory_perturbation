@@ -19,7 +19,6 @@ scBaseCount dataset contains observational single-cell RNA-seq data but not gene
 
 DMSO Transcription-Factor control condition(zero concentration= control sample) - No active drug perturbation
 
-Coyle, Brian et al. “Variational Quantum Cloning: Improving Practicality for Quantum Cryptanalysis.” ArXiv abs/2012.11424 (2020): n. pag.
 
 https://github.com/ArcInstitute/arc-virtual-cell-atlas/blob/main/scBaseCount/tutorial-py.ipynb
 
