@@ -17,7 +17,7 @@ https://virtualcellchallenge.org/datasets
 
 scBaseCount dataset contains observational single-cell RNA-seq data but not genetic perturbation dataset
 
-DMSO Transcription-Factor control condition(zero concentration= control sample) - No active drug perturbation
+DMSO Transcription-Factor control condition(zero concentration= control sample) - No active drug perturbation - use different plate samples (in vitro plate 0-14) for out-of-sample testing
 
 
 https://github.com/ArcInstitute/arc-virtual-cell-atlas/blob/main/scBaseCount/tutorial-py.ipynb
