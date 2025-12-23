@@ -21,6 +21,8 @@ Focus on similar drug from different plates  for the out of sample testing
 
 DMSO Transcription-Factor control condition(zero concentration= control sample) - No active drug perturbation - use different plate samples (in vitro plate 0-14) for out-of-sample testing
 
+Trametinib and Binimetinib are closely related cancer drugs. They belong to the same drug class and target the same signaling pathway.
+
 
 https://github.com/ArcInstitute/arc-virtual-cell-atlas/blob/main/scBaseCount/tutorial-py.ipynb
 
