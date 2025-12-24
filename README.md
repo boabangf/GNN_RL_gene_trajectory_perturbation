@@ -21,6 +21,8 @@ Focus on similar drug from different plates  for the out of sample testing
 
 DMSO Transcription-Factor control condition(zero concentration= control sample) - No active drug perturbation - use different plate samples (in vitro plate 0-14) for out-of-sample testing
 
+Plate 14 is a biological replicate of Plate 6
+
 Trametinib and Binimetinib are closely related cancer drugs. They belong to the same drug class and target the same signaling pathway.
 
 MEK inhibitors in Cancer Treatment
