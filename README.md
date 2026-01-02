@@ -23,22 +23,11 @@ DMSO Transcription-Factor control condition(zero concentration= control sample) 
 
 Plate 14 is a biological replicate of Plate 6
 
-Trametinib and Binimetinib are closely related cancer drugs. They belong to the same drug class and target the same signaling pathway.
+**CRISPRi Screening using dataset with non-target genes to generate target gene that drives the lineage toward the experimental lineage**
 
-MEK inhibitors in Cancer Treatment
+Experimental dataset with target genes
 
-Trametinib
-
-Binimetinib
-
-Cobimetinib
-
-Selumetinib
-
-Mirdametinib 
-
-
-https://github.com/ArcInstitute/arc-virtual-cell-atlas/blob/main/scBaseCount/tutorial-py.ipynb
+https://github.com/ArcInstitute/arc-virtual-cell-atlas/blob/128cf191138463fab4f4ab701c7ded0d90563b80/virtual-cell-challenge/tutorial-py.ipynb
 
  **Goal:** AI for understanding developmental pathways
 
