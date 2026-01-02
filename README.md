@@ -13,21 +13,14 @@ I will be attending the Omics Codeathon April  2026: https://docs.google.com/for
 
 https://zenodo.org/records/15731884
 
-https://virtualcellchallenge.org/datasets
-
-scBaseCount dataset contains observational single-cell RNA-seq data but not genetic perturbation dataset
-
-Focus on similar drug from different plates  for the out of sample testing
-
-DMSO Transcription-Factor control condition(zero concentration= control sample) - No active drug perturbation - use different plate samples (in vitro plate 0-14) for out-of-sample testing
-
-Plate 14 is a biological replicate of Plate 6
 
 **CRISPRi Screening using dataset with non-target genes to generate target gene that drives the lineage toward the experimental lineage**
 
 Replogle genome wide and essential screens(CRISPRi)
 
 Experimental dataset with target genes
+
+https://colab.research.google.com/drive/1QKOtYP7bMpdgDJEipDxaJqOchv7oQ-_l#scrollTo=ohFQvuBY4dPr
 
 https://github.com/ArcInstitute/arc-virtual-cell-atlas/blob/128cf191138463fab4f4ab701c7ded0d90563b80/virtual-cell-challenge/tutorial-py.ipynb
 
