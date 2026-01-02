@@ -25,6 +25,8 @@ Plate 14 is a biological replicate of Plate 6
 
 **CRISPRi Screening using dataset with non-target genes to generate target gene that drives the lineage toward the experimental lineage**
 
+Replogle genome wide and essential screens(CRISPRi)
+
 Experimental dataset with target genes
 
 https://github.com/ArcInstitute/arc-virtual-cell-atlas/blob/128cf191138463fab4f4ab701c7ded0d90563b80/virtual-cell-challenge/tutorial-py.ipynb
