@@ -6,28 +6,15 @@ Sponsors
 
 **Project Vision:** Digital Twin for Stem Cell Differentiation and Therapeutic Reprogramming
 
-I will be attending the Omics Codeathon April  2026: https://docs.google.com/forms/d/e/1FAIpQLSfmWvIxuE7JR4T7kwfWA_HIt0GUQ_czqVlK2zeeio5tzBmmvw/viewform?pli=1
-
-
-**Unperturb data (Control Sample) and Perturb data
-
-https://zenodo.org/records/15731884
-
-
-**CRISPRi Screening using dataset with non-target genes to generate target gene that drives the lineage toward the experimental lineage**
-
-Replogle genome wide and essential screens(CRISPRi)
-
-Experimental dataset with target genes
-
-https://colab.research.google.com/drive/1QKOtYP7bMpdgDJEipDxaJqOchv7oQ-_l#scrollTo=ohFQvuBY4dPr
-
-https://github.com/ArcInstitute/arc-virtual-cell-atlas/blob/128cf191138463fab4f4ab701c7ded0d90563b80/virtual-cell-challenge/tutorial-py.ipynb
 
  **Goal:** AI for understanding developmental pathways
 
 **Our mission** is to accelerate recovery from cancer, enable next-generation vaccine creation, and combat autoimmune diseases through advanced cellular reprogramming integrated with a digital twin of wet-lab stem cell differentiation experiments. This digital twin will replicate the complex molecular and epigenetic dynamics of stem cell differentiation in silico, allowing bioinformaticians and experimental biologists to simulate, optimize, and refine cellular behavior in real time. 
 
+
+**General Pipeline for the digital Twin Model**
+
+https://colab.research.google.com/drive/1e0zO1X-GQaT0OJ5-DL-6MZQvFfINRBPB?usp=sharing
 
 UBC Seminar: 5th September 2025, Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting Stem Cell Differentiation Using GNNs and Reinforcement Learning-UBC 5th September 2025****
 
