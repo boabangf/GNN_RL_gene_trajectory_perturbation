@@ -16,6 +16,10 @@ Sponsors
 
 https://colab.research.google.com/drive/1e0zO1X-GQaT0OJ5-DL-6MZQvFfINRBPB?usp=sharing
 
+new dataset
+
+https://support.parsebiosciences.com/hc/en-us/articles/7704577188500-How-to-analyze-a-1-million-cell-data-set-using-Scanpy-and-Harmony
+
 UBC Seminar: 5th September 2025, Title of  Talk: **** Machine Learning Optimization Methods and Their Application to Predicting Stem Cell Differentiation Using GNNs and Reinforcement Learning-UBC 5th September 2025****
 
 
