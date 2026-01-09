@@ -18,7 +18,9 @@ https://colab.research.google.com/drive/1e0zO1X-GQaT0OJ5-DL-6MZQvFfINRBPB?usp=sh
 
 new dataset
 
-https://support.parsebiosciences.com/hc/en-us/articles/7704577188500-How-to-analyze-a-1-million-cell-data-set-using-Scanpy-and-Harmony
+https://figshare.com/articles/dataset/pbmc_parse/28589774?file=53372768
+
+https://www.parsebiosciences.com/datasets/10-million-human-pbmcs-in-a-single-experiment/
 
 https://arxiv.org/pdf/2511.02986
 
